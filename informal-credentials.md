@@ -3,7 +3,7 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
-<img src="images/FigmaIntro-Logo.png" alt="Figma Logo" style="float:right;width:180px;"> 
+<img src="images\figma-logo.png" alt="tableau logo" style="float:right;width:250px;"> 
 
 # Informal Credentials or Digital Badges
 

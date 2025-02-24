@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/FigmaIntro-Logo.png" style="float:right;width:180px;" alt="Figma Logo">
+<img src="images\figma-logo.png" alt="tableau logo" style="float:right;width:250px;"> 
 
 # Build a Website UI with Figma
 
