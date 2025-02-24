@@ -3,14 +3,23 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## UPDATE BELOW: Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with **UPDATE** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+# Pre-Workshop Activities
 
-**UPDATE BELOW: 5-10 minutes.**<br>
-- OPTIONAL - [Introduction to Spreadsheets for Beginners](https://www.youtube.com/watch?v=rJbf-2XXsuY){:target="_blank"} (5 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lYzhgMZii3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- OPTIONAL - If you don’t have the latest version of Microsoft Excel, you can request a UVic licensed and paid-for version of [Office 365 here](https://onlineservices.uvic.ca/){:target="_blank"}<br>
-            -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
-            -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
+Before we start building your website design in Figma, there are a few setup steps to complete to ensure you're ready for the hands-on activities.
+
+1.  **Create a Figma Account**  
+If you don’t have a Figma account yet, go to [figma.com](https://www.figma.com) and sign up for a **free account**.  
+Once your account is created, you can use **Figma in your browser** or download the **Figma desktop app**.
+<br/>
+
+2. **Download the Icons & Images for Prototyping**  
+For this session, we’ll be using a set of icons and images to build our prototype. [Click here](https://github.com/uviclibraries/figma-intro/tree/main/resources/figma-intro-resources.zip) to download these resources. Once downloaded, unzip the file to access the assets. You're also free to use your own images to personalize your design.  
+<br/>
+
+3.  **Install the Figma Desktop App (Optional)**  
+While Figma works great in your browser, you can also download the **desktop app** for Windows or Mac.  
+Download it from: [figma.com/downloads](https://www.figma.com/downloads)
+
+<br/>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
