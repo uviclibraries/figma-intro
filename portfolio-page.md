@@ -40,7 +40,7 @@ To keep the header and the new divider aligned properly, we will apply **Auto La
 2. **Right-click** and choose **Add Auto Layout** from the menu.  
 3. In the **Right Sidebar**, under **Auto Layout Settings**, set the **Vertical Spacing** to **21**.  
 
----
+
 
 ## 5. Adding the "My Portfolio" Title  
 
@@ -57,7 +57,6 @@ Now, we will add a **title** to introduce the portfolio section.
 - **Text Alignment:** Center  
 5. Position the title **below the header and divider**, ensuring it is centered using the **alignment guides**.  
 
----
 
 ## 6. Downloading the Portfolio Images  
 
@@ -67,7 +66,6 @@ Before we start adding project cards, download the **four images** that will be 
 
 If you are using your own images, make sure they are **high-quality and visually cohesive** to maintain a consistent design.  
 
----
 
 ## 7. Creating a Single Project Card  
 
@@ -82,7 +80,6 @@ A **Project Card** consists of an image, a title, and a short description.
 - **Height:** 240px  
 4. In the **Fill** section, click the **color box**, then select **Image** and upload one of the portfolio images.  
 5. Press **T** to add a text layer below the image and type a **project title**, such as:  
----
 
 ## 6. Downloading the Portfolio Images  
 
@@ -92,7 +89,6 @@ Before we start adding project cards, download the **four images** that will be 
 
 If you are using your own images, make sure they are **high-quality and visually cohesive** to maintain a consistent design.  
 
----
 
 ## 7. Creating a Single Project Card  
 
@@ -115,7 +111,7 @@ A **Project Card** consists of an image, a title, and a short description.
 7. Add another text layer below for the **project description**, keeping it to **two lines max**: "Styled a statement runway show featuring bold silhouettes and intricate textures, celebrating modern couture in the heart of Paris."
 8. Adjust spacing between the **image, title, and description** for a balanced layout.  
 
----
+
 
 ## 8. Duplicating and Replacing Content  
 
@@ -145,7 +141,6 @@ Now, we will create the remaining project cards by duplicating the first one and
 
 Ensure that all project descriptions fit into **two lines max** for consistency.  
 
----
 
 ## 9. Adding a Quote  
 
@@ -162,7 +157,6 @@ Now, let’s add a fashion-related quote between the project cards.
 - **Text Alignment:** Right  
 4. Position the quote **to the right of the project cards**.  
 
----
 
 ## 10. Creating a Horizontal Auto Layout  
 
@@ -172,7 +166,6 @@ Now, we will **group the two project cards and the quote** into a horizontal Aut
 2. **Right-click** and choose **Add Auto Layout**.  
 3. In the **Right Sidebar**, set the **direction to horizontal** and adjust the **spacing** to maintain even alignment.  
 
----
 
 ## 11. Duplicating the Horizontal Auto Layout  
 
@@ -184,9 +177,6 @@ Now, let’s create the second row of projects by duplicating the first horizont
 4. **Rearrange the quote** so that it is placed **first** in this row.  
 5. Replace the **images, titles, and descriptions** with the remaining content.  
 6. Ensure that each project description is **no longer than two lines** for a clean look.  
-
----
-
 
 ## 12. Creating the Footer  
 

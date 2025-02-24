@@ -13,9 +13,7 @@ Now that you've learned how to structure and animate pages, it’s time for a **
 
 Before you begin, take a look at the **final product** you will be working towards:  
 
-![Final About Me Page](#) *(Replace with actual image link)*  
-
----
+<img src="images/about-final.jpg" style="width:100%;" alt="Final About Me Page Design">   
 
 ## Download the Required Images  
 
@@ -25,8 +23,6 @@ To help you with this challenge, here are the images used in the final design. Y
 
 However, if you’d like to **customize** your page, feel free to use your own images and let your imagination run wild!  
 
----
-
 ## Tips for Structuring the Design  
 
 - **Use Groups & Auto Layouts**: Keeping your design structured will make adjustments easier.  
@@ -34,10 +30,8 @@ However, if you’d like to **customize** your page, feel free to use your own i
 - **Typography & Spacing**: Maintain clean spacing and use appropriate fonts to enhance readability.  
 - **Experiment with Creativity**: This is your chance to make the page unique while following the layout structure.  
 
----
-
-## What's Next?  
+### What's Next?  
 
 Once you’ve completed your **About Me Page**, the final step is learning **how to share your finished design with others**, so they can view and interact with your work.  
 
-[NEXT STEP: Sharing Your Figma Design](sharing-design.html){: .btn .btn-blue }  
+[NEXT STEP: Sharing Your Figma Design](share-design.html){: .btn .btn-blue }  

@@ -9,14 +9,12 @@ parent: Workshop Activities
 
 Now that you’ve completed your **About Me Page**, it’s time to share your work with others! Whether you want feedback, collaboration, or just to showcase your design, Figma makes sharing easy.  
 
----
 
 ## 1. Opening the Share Menu  
 
 1. Ensure you have the **Figma file** open.  
 2. In the **top-right corner**, click the **Share** button.  
 
----
 
 ## 2. Adjusting Access & Permissions  
 
@@ -34,7 +32,6 @@ Alternatively, you can generate a **link** to share:
    - **Can View** → Allows viewing only.  
    - **Can Edit** → Grants editing access.  
 
----
 
 ## 3. Presenting Your Design  
 
@@ -43,7 +40,7 @@ If you want to **present your design like a real website**, use **Prototype Mode
 1. Click the **Play (▶) button** in the top-right corner to launch the prototype.  
 2. Share the prototype link by clicking **Share Prototype** in the preview window.  
 
----
+
 
 ## 4. Exporting Your Design  
 
@@ -58,7 +55,6 @@ Want to save your design as an image or PDF? Here’s how:
    - **PDF** (for printable documents)  
 4. Click **Export** and save the file.  
 
----
 
 ## What’s Next?  
 

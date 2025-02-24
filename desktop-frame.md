@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2 - Working with Frames
+title: Working with Frames
 nav_order: 3
 parent: Workshop Activities
 ---
@@ -21,7 +21,7 @@ In Figma, **Frames** act as containers for your designs and help structure your 
 6. With the frame selected, go to the **Layers Panel** on the left.  
 7. Double-click on the frame name (default should be "Desktop - 1") and rename it to **"Home"**. Press **Enter** to confirm. 
 
----
+
 
 ## 2. Applying a Linear Gradient Background  
 
@@ -37,7 +37,7 @@ TODO: screenshot
    - Click on the **second color stop** (bottom of the gradient) and enter the HEX code: **#C4A484**. 6. Click on the **first color stop** (top of the gradient) and enter the HEX code: **#5A452D**.  
 8. Ensure that the gradient line on the frame goes from top to bottom
 
----
+
 
 ### Next Steps  
 In the next step, we will **design the header** for our project, including adding a title, logo, and navigation elements.  

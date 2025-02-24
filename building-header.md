@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3 - Building the Header
+title: Building the Header
 nav_order: 4
 parent: Workshop Activities
 ---
@@ -48,7 +48,6 @@ Next, we’ll add text links on the left side of the header.
    - Auto Layout automatically organizes elements within a frame, making it easier to adjust spacing and maintain alignment dynamically. 
 9. In the **Layers Panel**, select your newly created **Auto Layout frame**. Then, in the **Right Sidebar**, under **Auto layout**, change the value of the horizontal spacing to **73** to ensure enough spacing between the navigation links.  
 TODO: Image
----
 
 ## 3. Adding the "Contact Me" Link  
 
@@ -70,7 +69,6 @@ Now that the navigation links are properly aligned and spaced, we'll move on to 
 
 4. Drag the **"Contact Me"** text to the **top right** corner of the header.  
 
----
 
 ## 4. Aligning and Grouping the Header Elements  
 
@@ -80,7 +78,6 @@ Now that all elements are in place, let's make sure they are perfectly aligned a
 2. Now select all elements inside the **Home Frame** by clicking and dragging over them. Then, **right-click** on the selection and choose **Group Selection** from the menu. This will combine all elements into a single group, making it easier to move and manage them as one unit. 
 3. In the **Layers Panel**, rename the group to **"Header"** for better organization.  
 
----
 
 Now that the header is complete, let’s move on to **designing the rest of the home page**, including images, and buttons.  
 

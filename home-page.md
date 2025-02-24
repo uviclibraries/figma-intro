@@ -14,7 +14,6 @@ To begin designing the **home page**, we will start by adding the main image.
 - [Download the Image](#) *(TODO Replace with actual download link)*  
 - To ensure consistency in design, use the provided image or select one that fits the theme. The image should be **high-quality and vertically oriented**. Make sure it aligns with the dimensions specified in this section.  
 
---- 
 
 ## 2. Adding an Image to the Home Frame  
 
@@ -32,7 +31,6 @@ Instead of setting an image as a fill, we will **place it directly into the Home
    - Click **Align Horizontal Center** to center it within the Home Frame.  
    - Manually adjust the vertical position to ensure it sits balanced on the page.  
 
---- 
 
 ## 3. Adding a Drop Shadow  
 
@@ -46,7 +44,6 @@ Now, let's add a subtle **drop shadow** effect to enhance the image.
    - **Spread:** 2  
    - **Color:** **#D8C3A5** with **25% opacity**
 
---- 
 
 ## 4. Adding the Headline Text  
 
@@ -81,7 +78,7 @@ YOUR FASHION COMPASS
 2. Position it so that it is **aligned horizontally with the center of the image** but slightly offset to the left.  
 3. Adjust the vertical positioning if needed to create a **balanced layout**.  
 
----
+
 
 ### Adding the Portfolio Button  
 
@@ -123,7 +120,6 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
 2. **Right-click** and select **Group Selection** to keep them as one unit.  
 3. Drag the button group to the **right side** of the **Home Frame**, ensuring balanced spacing from the image.  
 
----
 Now that the home page is complete, the next step is designing the **Portfolio Page**, where Evelyne showcases her work in a visually appealing layout.  
 
 [NEXT STEP: Designing the Portfolio Page](portfolio-page.html){: .btn .btn-blue }  
