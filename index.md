@@ -19,7 +19,7 @@ Even if you've never used a design tool before, Figma's **beginner-friendly** in
 
 ## What Are We Building?  
 
-In this workshop, we are designing a **portfolio website for a fictional fashion designer**. Yes, sadly, **Evelyne Stark does not exist** (but let’s be honest, it would be pretty cool if she did). Through this project, you’ll learn how to create a visually stunning and interactive UI that showcases a designer’s work in an elegant and professional layout.  
+In this workshop, we are designing a **portfolio website for a fictional fashion designer**. Through this project, you’ll learn how to create a visually stunning and interactive UI that showcases a designer’s work in an elegant and professional layout.  
 
 By the end of this workshop, you will have built a **fully designed and interactive website UI** in Figma. Below is the final design you will work towards:    
 

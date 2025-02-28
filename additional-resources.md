@@ -15,10 +15,9 @@ To further enhance your **Figma skills**, here are some additional resources tha
 - [Figma Community](https://www.figma.com/community) – Explore templates, plugins, and UI kits.  
 - [Figma Plugins](https://www.figma.com/community/plugins) – Extend Figma’s functionality with useful plugins.  
 
----
-
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
+- [Unsplash](https://unsplash.com/), for providing high-quality images used in this workshop. You can explore more royalty-free images on their website [linked here](https://unsplash.com/).  
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
