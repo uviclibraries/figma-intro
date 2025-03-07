@@ -13,7 +13,8 @@ Linking pages in Figma allows you to create a **clickable prototype** that simul
 ## 1. Linking the "Portfolio” in header 
 
 1. In the **Layers Panel**, find and select the **Home Frame**.  
-2. Switch to **Prototype Mode** by clicking the **Prototype** tab in the right sidebar.  
+2. Switch to **Prototype Mode** by clicking the **Prototype** tab in top of the right sidebar.  
+<img src="images/prototype-mode.png" style="width:300px">
 3. On the **Home Frame**, locate the **Portfolio** text in your header navigation.  
 4. Now head over to the right sidebar, under "Interactions", click the minus button beside the current "Click" interaction. This removes it so we can add a new one ourselves  
 <img src="images/minus-click.png" style="width:300px">

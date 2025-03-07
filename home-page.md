@@ -9,52 +9,44 @@ parent: Workshop Activities
 
 Before you begin, take a look at the **final result** you’ll be working towards in this section:  
 
-TODO
-<img src="images/portfolio-final.jpg" style="width:100%;" alt="Final Portfolio Page Design">  
+<img src="images/home-final.jpg" style="width:100%;" alt="Final Portfolio Page Design">  
 
 ---
 
 # Adding the Center Image  
 
-To begin designing the **home page**, we will start by adding the main image.  
+To begin designing the **home page**, we will start by adding the main image. All the icons and images required are already provided in the assets you downloaded in step 2 of the **Pre-Workshop Activities**
 
-## 1. Downloading the Image  
-
-- [Download the Image](#) *(TODO Replace with actual download link)*  
-- To ensure consistency in design, use the provided image or select one that fits the theme. The image should be **high-quality and vertically oriented**. Make sure it aligns with the dimensions specified in this section.  
-
-
-## 2. Adding an Image to the Home Frame  
-
-Instead of setting an image as a fill, we will **place it directly into the Home Frame** as an independent layer.  
+## Adding an Image to the Home Frame  
 
 1. Ensure the **Home Frame** is selected in the **Layers Panel**.  
-2. Click on the **"Insert" button** (the plus **➕** icon) in the **top toolbar**.  
-3. From the dropdown menu, select **"Image"**.  
-4. In the file selection window, choose the **image file** you downloaded earlier and click **Open**.  
+2. Click on the shape icon (as seen below) in the **bottom toolbar**.  
+3. From the dropdown menu, select **"Image/video"**.  
+<img src="images/insert-image.png" style="width:80%">
+4. In the file selection window, choose the **image** titled **woman-holding-flower**
 5. Move your cursor over the **Home Frame** and **click once** to place the image inside the frame.  
-6. With the image selected, go to the **Right Sidebar** and set the exact dimensions:  
+6. With the image selected, go to the **Right Sidebar** and set the dimensions under Layout:  
    - **Width:** 481  
-   - **Height:** 722  
-7. Align the image properly by using the alignment tools:  
-   - Click **Align Horizontal Center** to center it within the Home Frame.  
-   - Manually adjust the vertical position to ensure it sits balanced on the page.  
+   - **Height:** 722 
+<img src="images/center-img-dim.png" style="width:300px">
+7. If the image seems to disappear, but if you zoom out, you may find it near the top left of your Figma file. Manually drag it back to center it within the Home frame.
 
-
-## 3. Adding a Drop Shadow  
+## Adding a Drop Shadow  
 
 Now, let's add a subtle **drop shadow** effect to enhance the image.  
 
 1. With the image still selected, go to the **Right Sidebar** and scroll to the **Effects** section.  
-2. Click the **+** icon and select **Drop Shadow** from the dropdown.  
-3. Adjust the settings as follows:  
+2. Click the **+** icon to add a new **Drop Shadow**.  
+3. Open the Effect Settings by clicking on the square icon to the left of the "Drop Shadow"
+4. Adjust the settings as follows:  
    - **Position:** X = 8, Y = -8  
    - **Blur:** 10  
    - **Spread:** 2  
    - **Color:** **#D8C3A5** with **25% opacity**
+<img src="images/drop-shadow-settings.png" style="width:400px">
 
 
-## 4. Adding the Headline Text  
+## Adding the Headline Text  
 
 Now, we will add the main **headline text** to the home page and style it to match the design.  
 
