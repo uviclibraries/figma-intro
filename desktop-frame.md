@@ -9,7 +9,7 @@ parent: Workshop Activities
 
 Before you begin, take a look at the **final result** you’ll be working towards in this section:  
 
-<img src="images/desktop-frame-final.png" style="width:100%;">  
+<img src="images/desktop-frame-final.png" style="width:50%;">  
 
 ---
 
