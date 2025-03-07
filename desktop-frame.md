@@ -30,7 +30,7 @@ In Figma, **Frames** act as containers for your designs and help structure your 
 
 4. Your new frame will appear on the canvas. Make sure it is selected before moving to the next step.  
 5. With the frame selected, go to the **Layers Panel** on the left.  
-6. Double-click on the frame name (default should be "Desktop - 1") and rename it to **"Home"**.
+6. Double-click on the frame name (default should be "Desktop - 1") and rename it to **"Home"** (see image on the right)
 
 
 ## 2. Applying a Linear Gradient Background  
