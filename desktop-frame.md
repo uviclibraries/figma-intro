@@ -57,6 +57,7 @@ Now, let’s style the frame with a **linear gradient background**.
 
 ### Next Steps  
 In the next step, we will **design the header** for our project, including adding a title, logo, and navigation elements.  
+
 <script>  
 
     function toggle(input) {
@@ -68,4 +69,5 @@ In the next step, we will **design the header** for our project, including addin
         }
     }
 </script>
+
 [NEXT STEP: Building the Header](building-header.html){: .btn .btn-blue }   
