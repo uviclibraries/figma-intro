@@ -48,5 +48,15 @@ Now, let’s style the frame with a **linear gradient background**.
 
 ### Next Steps  
 In the next step, we will **design the header** for our project, including adding a title, logo, and navigation elements.  
+<script>  
 
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 [NEXT STEP: Building the Header](building-header.html){: .btn .btn-blue }   
