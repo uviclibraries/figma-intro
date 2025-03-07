@@ -37,7 +37,10 @@ In Figma, **Frames** act as containers for your designs and help structure your 
 5. With the frame selected, go to the **Layers Panel** on the left.  
 6. Double-click on the frame name (default should be "Desktop - 1") and rename it to **"Home"** (see image on the right)
 
-
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src="images/layers.gif">
+    </div>
 ## 2. Applying a Linear Gradient Background  
 
 Now, let’s style the frame with a **linear gradient background**.  
