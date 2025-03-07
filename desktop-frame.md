@@ -27,8 +27,13 @@ In Figma, **Frames** act as containers for your designs and help structure your 
 2. On the **Right Sidebar**, a list of preset frame sizes will appear.  
 3. Scroll down and click on the **Desktop** dropdown, then select the **Desktop** option to create a standard desktop-sized frame.  
 <img src="images/desktop-frame-option.png" style="width:200px;">  <img src="images/layers-rename-frame.png" style="float:right;width:280px;">  
-
 4. Your new frame will appear on the canvas. Make sure it is selected before moving to the next step.  
+
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/desktop-frame.gif">
+    </div>
+
 5. With the frame selected, go to the **Layers Panel** on the left.  
 6. Double-click on the frame name (default should be "Desktop - 1") and rename it to **"Home"** (see image on the right)
 
