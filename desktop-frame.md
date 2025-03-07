@@ -54,6 +54,11 @@ Now, let’s style the frame with a **linear gradient background**.
    - Click on the **second color stop** (bottom of the gradient) and enter the HEX code: **#C4A484**. 
 <img src="images/linear-gradient-fill.png" style="width:300px;">  
 
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/layers-2.gif">
+    </div>
+    
 ### Next Steps  
 In the next step, we will **design the header** for our project, including adding a title, logo, and navigation elements.  
 
