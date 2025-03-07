@@ -31,6 +31,12 @@ The logo will be a **text-based brand name** positioned at the center of the hea
    - **Font Size:** 36  
    - **Text Alignment:** Center  
 <img src="images/logo-typography.png" style="width:300px">  
+
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/create-logo1.gif">
+    </div>
+
 6. Click and **drag the text** to the center of the frame.  
    - To make sure it’s perfectly centered, look for the **alignment guides** (red lines).  
    - Position it **close to the top of the frame** but **leave enough space** for a balanced layout.  
