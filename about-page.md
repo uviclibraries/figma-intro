@@ -13,7 +13,7 @@ Now that you've learned how to structure and animate pages, it’s time for a **
 
 Before you begin, take a look at the **final product** you will be working towards:  
 
-<img src="images/about-final.jpg" style="width:100%;" alt="Final About Me Page Design">   
+<img src="images/about-final.jpg" style="width:80%;" alt="Final About Me Page Design">   
 
 ## Download the Required Images  
 
