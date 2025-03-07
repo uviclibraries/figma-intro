@@ -33,7 +33,7 @@ The **Portfolio Page** showcases featured projects in a clean and structured lay
 To separate the navigation from the portfolio content, we will add a **thin white line** below the header.  
 
 1. Select the **Portfolio Frame**.  
-2. Press **L** to activate the **Line Tool**, or click the **Line** icon from the top toolbar.  
+2. Press **L** to activate the **Line Tool**, or click the **Line** icon from the bottom toolbar.  
 3. Click and **drag** to draw a horizontal line under the header.  
 4. In the **Right Sidebar**, adjust the line properties:  
    - **Color:** White (#FFFFFF)  
@@ -55,7 +55,7 @@ To keep the header and the new divider aligned properly, we will apply **Auto La
 Now, we will add a **title** to introduce the portfolio section.  
 
 1. Ensure the **Portfolio Frame** is selected in the **Layers Panel**.  
-2. Press **T** to activate the **Text Tool**, or click the **Text** icon in the top toolbar.  
+2. Press **T** to activate the **Text Tool**, or click the **Text** icon in the bottom toolbar.  
 3. Click inside the **Portfolio Frame** and type: "My Portfolio"  
 4. In the **Right Sidebar**, set the typography properties:  
 - **Font Family:** Iowan Old Style  
@@ -81,7 +81,7 @@ A **Project Card** consists of an image, a title, and a short description.
 
 ### Creating the Card Structure  
 
-1. Press **R** to activate the **Rectangle Tool**, or click the **Rectangle** icon in the top toolbar.  
+1. Press **R** to activate the **Rectangle Tool**, or click the **Rectangle** icon in the bottom toolbar.  
 2. Click and **drag** to create a rectangle that will serve as the **image container**.  
 3. In the **Right Sidebar**, set the image dimensions to:  
 - **Width:** 360px  
@@ -104,7 +104,7 @@ A **Project Card** consists of an image, a title, and a short description.
 
 ### Creating the Card Structure  
 
-1. Press **R** to activate the **Rectangle Tool**, or click the **Rectangle** icon in the top toolbar.  
+1. Press **R** to activate the **Rectangle Tool**, or click the **Rectangle** icon in the bottom toolbar.  
 2. Click and **drag** to create a rectangle that will serve as the **image container**.  
 3. In the **Right Sidebar**, set the image dimensions to:  
 - **Width:** 360px  
@@ -207,7 +207,7 @@ To complete the **Portfolio Page**, we will add a simple footer with a copyright
 
 ### Adding the Copyright Text  
 
-1. Press **T** to activate the **Text Tool**, or click the **Text** icon in the top toolbar.  
+1. Press **T** to activate the **Text Tool**, or click the **Text** icon in the bottom toolbar.  
 2. Click below the newly placed line and type:  
 ```
  © Copyright 2025 - Evelyne Stark

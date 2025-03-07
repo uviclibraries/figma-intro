@@ -22,7 +22,7 @@ Before you begin, take a look at the **final result** you’ll be working toward
 The logo will be a **text-based brand name** positioned at the center of the header. Follow these steps:  
 
 1. Select the **"Home" Frame** in the **Layers Panel** to ensure you are working within the correct space.  
-2. Press **T** to activate the **Text Tool**, or click the **Text** icon in the top toolbar.  
+2. Press **T** to activate the **Text Tool**, or click the **Text** icon in the bottom toolbar.  
 <img src="images/text-icon.png" style="width:100%;">  
 3. Click anywhere near the **top center** of the frame and type: **"Evelyne"** (or customize by using your own first name).  
 4. In the **Layers Panel**, click on the new text layer to ensure it's fully selected.  
@@ -40,7 +40,7 @@ The logo will be a **text-based brand name** positioned at the center of the hea
 
 Next, we’ll add text links on the left side of the header.  
 
-1. Press **T** to activate the **Text Tool**, or click the **Text** icon in the top toolbar.  
+1. Press **T** to activate the **Text Tool**, or click the **Text** icon in the bottom toolbar.  
 2. Click on any spot close to the top left of the frame and type **"Home"**  
 3. In the **Layers Panel**, ensure the text layer is selected.  
 4. In the **Right Sidebar**, set the following properties:  

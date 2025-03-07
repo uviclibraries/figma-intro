@@ -53,7 +53,7 @@ Now, we will add the main **headline text** to the home page and style it to mat
 ### Adding the Text  
 
 1. Ensure the **Home Frame** is selected in the **Layers Panel**.  
-2. Press **T** to activate the **Text Tool**, or click on the **Text** icon in the top toolbar.  
+2. Press **T** to activate the **Text Tool**, or click on the **Text** icon in the bottom toolbar.  
 3. Click inside the **Home Frame** and type the following text:  
 
 ```
@@ -65,7 +65,7 @@ YOUR FASHION COMPASS
 
 ### Styling the Text  
 
-1. With the text selected, go to the **Right Sidebar** under **Typography** and set:  
+With the text selected, go to the **Right Sidebar** under **Typography** and set:  
 - **Font Family:** Italiana  
 - **Font Size:** 48  
 - **Font Weight:** Regular  
@@ -78,7 +78,7 @@ YOUR FASHION COMPASS
 1. Click and **drag the text** towards the left side of the **Home Frame** while observing the **red alignment guides**.  
 2. Position it so that it is **aligned horizontally with the center of the image** but slightly offset to the left.  
 3. Adjust the vertical positioning if needed to create a **balanced layout**.  
-
+<img src="images/headline-text.png" style="width:100%">
 
 
 ### Adding the Portfolio Button  
@@ -88,20 +88,24 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
 #### Creating the Button Shape  
 
 1. Ensure the **Home Frame** is selected.  
-2. Press **O** to activate the **Ellipse Tool**, or click on the **Circle** icon from the top toolbar.  
+2. Press **O** to activate the **Ellipse Tool**, or click on the **Ellipse** icon from the bottom toolbar.  
+<img src="images/ellipse-tool.png" style="width:400px">
 3. Click and **drag** to create a perfect circle.  
 4. In the **Right Sidebar**, set the **exact dimensions**:  
-- **Width:** 80  
-- **Height:** 80  
-5. In the **Fill** section, change the color to **#D8A25A** (a warm gold tone).  
+- **Width:** 100  
+- **Height:** 100  
+5. In the **Fill** section, change the color to **#D9A159** (a warm gold tone).  
 
 #### Adding the Arrow Icon  
 
-1. Click on the **Insert** button (➕) in the top toolbar and select **"Icon"** from the menu.  
-2. In the search bar, type **"Arrow Right"** and select a simple right-facing arrow.  
-3. Resize the arrow so it fits neatly inside the circle.  
-4. Change the arrow color to **White (#FFFFFF)**.  
-5. Position the arrow in the **center** of the circle using the **alignment guides**.  
+1. Press **Shift + L** to activate the **Arrow Tool**, or click on the **Arrow** icon from the bottom toolbar.  
+<img src="images/arrow-tool.png" style="width:400px">
+ 
+2. In the **Right Sidebar**, set the **exact dimensions**:  
+- **Width:** 41  
+- **Height:** 0 
+3. Change the arrow color to **White (#FFFFFF)**.  
+4. Position the arrow in the **center** of the circle using the **alignment guides**.  
 
 #### Adding the Button Label  
 
@@ -109,11 +113,11 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
 2. Type **"My Portfolio"**.  
 3. In the **Right Sidebar**, adjust the text properties:  
 - **Font Family:** Iowan Old Style  
-- **Font Size:** 16  
-- **Font Weight:** Regular  
+- **Font Size:** 22  
+- **Font Weight:** Roman  
 - **Text Color:** White (#FFFFFF)  
 - **Text Alignment:** Center  
-4. Drag the text **below the button**, ensuring it's properly aligned using the **red guides**.  
+4. Drag the text **below the button**, ensuring it's properly aligned using the **red guidelines**.  
 
 #### Grouping and Positioning  
 

@@ -21,7 +21,7 @@ If you and your group have any questions or get stuck as you work through this i
 
 In Figma, **Frames** act as containers for your designs and help structure your layout. Let’s start by adding a **Desktop Frame** to your canvas.  
 
-1. In the **Top Toolbar**, click on the **Frame Tool** (Shortcut: Press **F**).  
+1. In the **bottom toolbar**, click on the **Frame Tool** (Shortcut: Press **F**).  
 <img src="images/frame-icon.png" style="width:100%;">  
 
 2. On the **Right Sidebar**, a list of preset frame sizes will appear.  
