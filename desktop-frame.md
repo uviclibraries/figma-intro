@@ -29,8 +29,7 @@ In Figma, **Frames** act as containers for your designs and help structure your 
 <img src="images/desktop-frame-option.png" style="width:300px;">  
 4. Your new frame will appear on the canvas. Make sure it is selected before moving to the next step.  
 5. With the frame selected, go to the **Layers Panel** on the left.  
-6. Double-click on the frame name (default should be "Desktop - 1") and rename it to **"Home"**. Press **Enter** to confirm. 
-<img src="images/09.png" style="float:right; width:200px;margin-left:10px;">
+6. Double-click on the frame name (default should be "Desktop - 1") and rename it to **"Home"**.
 <img src="images/layers-rename-frame.png" style="width:300px;">  
 
 

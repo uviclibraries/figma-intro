@@ -7,62 +7,41 @@ parent: Workshop Activities
 
 # Linking Pages with Smart Animate  
 
-**Why Link Pages?**  
 Linking pages in Figma allows you to create a **clickable prototype** that simulates user flow, helping you visualize and test your design before final development. Adding **Smart Animate** transitions enhances this experience by animating elements between frames, giving your prototype a polished, professional feel.  
 
 
-## 1. Selecting the Home Frame  
+## 1. Linking the "Portfolio” in header 
 
 1. In the **Layers Panel**, find and select the **Home Frame**.  
 2. Switch to **Prototype Mode** by clicking the **Prototype** tab in the right sidebar.  
+3. On the **Home Frame**, locate the **Portfolio** text in your header navigation.  
+4. Now head over to the right sidebar, under "Interactions", click the minus button beside the current "Click" interaction. This removes it so we can add a new one ourselves  
+<img src="images/minus-click.png" style="width:300px">
+5. Now click the plus button, and on the panel that appears, select the following options:  
+   - **Trigger**: On Click  
+   - **Action**: Navigate To  
+   - **Destination**: Portfolio  
+   - **Animation**: Smart animate  
+   - **Curve**: Ease out 
+   - **Duration**: 300ms
+<img src="images/smart-animate.png" style="width:300px">  
 
-
-
-## 2. Creating a Link from the Portfolio Navigation Element  
-
-1. On the **Home Frame**, locate the **Portfolio** text in your header navigation.  
-2. Click on it, then drag the **blue circle** (interaction handle) to the **Portfolio Frame**.  
-3. In the **Prototype Settings** panel that appears:  
-   - **Interaction**: On Click  
-   - **Navigate To**: Portfolio Frame  
-   - **Animation**: Smart Animate  
-   - **Easing**: Ease In Out *(or your preferred easing)*  
-   - **Duration**: 300ms *(or your preferred timing)*  
-
-
-
-## 3. Linking the "My Portfolio" Button  
+## 2. Linking the "My Portfolio" button  
 
 1. Still on the **Home Frame**, select the **"My Portfolio"** button.  
-2. Drag the **blue circle** to the **Portfolio Frame**.  
-3. In the **Prototype Settings** panel:  
-   - **Interaction**: On Click  
-   - **Navigate To**: Portfolio Frame  
-   - **Animation**: Smart Animate  
-   - **Easing**: Ease In Out  
-   - **Duration**: 300ms  
+2. Now repeat the steps in the earlier section to add a **Smart animate** interaction
 
 
-## 4. Creating a Link Back to the Home Page  
+## 3. Creating a Link Back to the Home Page  
 
 1. Switch to the **Portfolio Frame** in the **Layers Panel**.  
-2. In **Prototype Mode**, select the **Home** text in the header navigation.  
-3. Drag the **blue circle** to the **Home Frame**.  
-4. In the **Prototype Settings** panel:  
-   - **Interaction**: On Click  
-   - **Navigate To**: Home Frame  
-   - **Animation**: Smart Animate  
-   - **Easing**: Ease In Out  
-   - **Duration**: 300ms  
+2. Now repeat the steps in the earlier section to add a **Smart animate** interaction. Here, the Destination should now be the Home Frame instead of Portfolio since we want to be taken to the Home frame whenever we click this
 
 
-## 5. Testing Your Prototype  
+## 4. Testing Your Prototype  
 
 1. Click the **Present** button (▶) in the top-right corner of Figma.  
-2. Navigate through the links:  
-   - **Home** → **Portfolio**  
-   - **My Portfolio** → **Portfolio**  
-   - **Home** (on Portfolio Page) → **Home** Frame  
+2. Navigate through the links by clicking on the buttons we just added prototype bahaviors to.  
 3. Observe the **Smart Animate** transitions and confirm the navigation flow feels smooth.  
 
 
