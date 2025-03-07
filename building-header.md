@@ -65,6 +65,11 @@ Next, we’ll add text links on the left side of the header.
 9. In the **Layers Panel**, select your newly created **Auto Layout frame**. Then, in the **Right Sidebar**, under **Auto layout**, change the value of the horizontal spacing to **73** to ensure enough spacing between the navigation links.  
 <img src="images/spacing-73.png" style="width:300px">  
 
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src="images/nav2.9.gif">
+    </div>
+
 ## 3. Adding the "Contact Me" Link  
 
 Now that the navigation links are properly aligned and spaced, we'll move on to designing the **"Contact Me"** link.
