@@ -39,6 +39,12 @@ By default, Figma has a near-white canvas background. Let’s change that.
 5. In the input field, type **#D8C3A5** and press **Enter** to apply the background color.
 6. Your canvas background should now match the selected color.  
 
+
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src="images/background.gif">
+    </div>
+    
 ### Next Steps  
 In the next step, we will learn about **Frames** and how to structure our designs in Figma.  
 
