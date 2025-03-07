@@ -56,7 +56,7 @@ Now, let’s style the frame with a **linear gradient background**.
 
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
-    <img src="images/layers-2.gif">
+    <img src="images/layer-2.gif">
     </div>
     
 ### Next Steps  
