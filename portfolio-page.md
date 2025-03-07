@@ -9,7 +9,7 @@ parent: Workshop Activities
 
 Before you begin, take a look at the **final result** you’ll be working towards in this section:  
 
-<img src="images/portfolio-final.jpg" style="width:100%;" alt="Final Portfolio Page Design">  
+<img src="images/portfolio-final.jpg" style="width:50%;" alt="Final Portfolio Page Design">  
 
 ---
 
