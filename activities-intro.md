@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 Please review the following if you are working through the workshop materials without attending a live event:
 
-**TODO**
+**SLIDES IN PROGRESS**
 - Read the [Introductory Slides](https://docs.google.com/presentation/d/1m9pCZ2g_ErpzakX14u5IQV0BRyE-HPUeD-EM_3Qwflw/){:target="_blank"} 
 
 - Resize Your Laptop Screen for Workshop Handouts (2 min)

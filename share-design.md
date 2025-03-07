@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Sharing Your Figma Design  
 
-Now that you’ve completed your **About Me Page**, it’s time to share your work with others! Whether you want feedback, collaboration, or just to showcase your design, Figma makes sharing easy.  
+Now that you’ve completed your design, it’s time to share it with others! Whether you want feedback, collaboration, or just to showcase your design, Figma makes sharing easy.  
 
 
 ## 1. Opening the Share Menu  

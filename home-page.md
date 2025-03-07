@@ -5,6 +5,15 @@ nav_order: 5
 parent: Workshop Activities
 ---
 
+### Section Preview  
+
+Before you begin, take a look at the **final result** you’ll be working towards in this section:  
+
+TODO
+<img src="images/portfolio-final.jpg" style="width:100%;" alt="Final Portfolio Page Design">  
+
+---
+
 # Adding the Center Image  
 
 To begin designing the **home page**, we will start by adding the main image.  

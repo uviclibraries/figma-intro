@@ -5,6 +5,14 @@ nav_order: 6
 parent: Workshop Activities
 ---
 
+### Section Preview  
+
+Before you begin, take a look at the **final result** you’ll be working towards in this section:  
+
+<img src="images/portfolio-final.jpg" style="width:100%;" alt="Final Portfolio Page Design">  
+
+---
+
 # Setting Up the Portfolio Page  
 
 The **Portfolio Page** showcases featured projects in a clean and structured layout. To begin, we will duplicate the **Home Page** frame and modify it to fit the portfolio content.  
@@ -148,7 +156,15 @@ Now, let’s add a fashion-related quote between the project cards.
 
 1. Press **T** to create a new text layer.  
 2. Type the following quote:  
-> “Style is a way to say who you are without having to speak.” – Rachel Zoe
+  ```
+“Style is a way to say who you are without having to speak.” – Rachel Zoe
+  ```
+
+TODO
+  ```
+“Fashion is the armor to survive the reality of everyday life.” – Bill Cunningham
+  ```
+
 3. In the **Right Sidebar**, set the typography properties:  
 - **Font Family:** Iowan Old Style  
 - **Font Size:** 18  
@@ -193,7 +209,9 @@ To complete the **Portfolio Page**, we will add a simple footer with a copyright
 
 1. Press **T** to activate the **Text Tool**, or click the **Text** icon in the top toolbar.  
 2. Click below the newly placed line and type:  
-> © Copyright 2025 - Evelyne Stark
+```
+ © Copyright 2025 - Evelyne Stark
+```
 
 3. In the **Right Sidebar**, set the typography properties:  
 - **Font Family:** Iowan Old Style  

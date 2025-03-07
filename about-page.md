@@ -17,11 +17,7 @@ Before you begin, take a look at the **final product** you will be working towar
 
 ## Download the Required Images  
 
-To help you with this challenge, here are the images used in the final design. You can download them below:  
-
-[Download All Images](#) *(Replace with actual download link)*  
-
-However, if you’d like to **customize** your page, feel free to use your own images and let your imagination run wild!  
+To help you with this challenge, all the icons and images required are already provided in the assets you downloaded in step 2 of the **Pre-Workshop Activities**
 
 ## Tips for Structuring the Design  
 

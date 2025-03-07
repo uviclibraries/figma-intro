@@ -5,11 +5,19 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
+### Section Preview  
+
+Before you begin, take a look at the **final result** you’ll be working towards in this section:  
+
+<img src="images/page-bg-final.png" style="width:100%;" alt="Final Portfolio Page Design">  
+
+---
+
 # Create a design file
 
 ## 1. Creating a New Figma Design File  
 
-1. Open **Figma** in your web browser (https://www.figma.com/) or launch the **Figma Desktop App**.  
+1. Open **Figma** in your web browser [using this link](https://www.figma.com) or launch the **Figma Desktop App**.  
 2. Log in with your Figma account. If you don’t have one, create a free account.  
 3. On the **Figma Home** screen, click on the **New Design File** button.  
 4. A blank Figma file will open in a new tab.  
