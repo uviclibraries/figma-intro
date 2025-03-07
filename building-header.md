@@ -90,6 +90,10 @@ Now that the navigation links are properly aligned and spaced, we'll move on to 
 
 4. Drag the **"Contact Me"** text to the **top right** corner of the header.  
 
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/contact-me.gif">
+    </div>
 
 ## 4. Aligning and Grouping the Header Elements  
 
