@@ -98,4 +98,16 @@ Now that all elements are in place, let's make sure they are perfectly aligned a
 
 Now that the header is complete, let’s move on to **designing the rest of the home page**, including images, and buttons.  
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 [NEXT STEP: Designing the Home Page](home-page.html){: .btn .btn-blue }  
