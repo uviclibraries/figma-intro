@@ -22,7 +22,12 @@ Before you begin, take a look at the **final result** you’ll be working toward
 3. On the **Figma Home** screen, click on the **New Design File** button.  
 4. A blank Figma file will open in a new tab.  
 5. Right now, your file doesn’t have a name. Click on **"Untitled"** in the top left corner, type **"Figma Intro Workshop"**, and press **Enter** to save this as the filename.
-   
+
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/create-design.gif">
+    </div>
+    
 ## 2. Setting the Page Background Color  
 
 By default, Figma has a near-white canvas background. Let’s change that.  
@@ -37,4 +42,15 @@ By default, Figma has a near-white canvas background. Let’s change that.
 ### Next Steps  
 In the next step, we will learn about **Frames** and how to structure our designs in Figma.  
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 [NEXT STEP: Working with Frames](desktop-frame.html){: .btn .btn-blue }  
