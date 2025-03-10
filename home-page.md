@@ -124,7 +124,18 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
 1. Select the **circle, arrow, and text** together.  
 2. **Right-click** and select **Group Selection** to keep them as one unit.  
 3. Drag the button group to the **right side** of the **Home Frame**, ensuring balanced spacing from the image.  
+  
+#### Creating the Auto Layout for Social Icons  
 
-Now that the home page is complete, the next step is designing the **Portfolio Page**, where Evelyne showcases her work in a visually appealing layout.  
+All the social media icons required are already provided in the assets you downloaded in step 2 of the **Pre-Workshop Activities**.  
+
+1. Pick four icons that you would like to use. We'll go with **Pinterest, LinkedIn, Twitter (X), and Instagram**.  
+2. Add the image of each icon onto the **Home Frame**, just like you added the image earlier.  
+3. Set the **dimensions** of each icon to a **width and height of 30px**.  
+4. In the **Layers Panel**, select all the social media icons you added and use the shortcut **Shift + A** to create an **Auto Layout**.  
+5. Adjust the **horizontal spacing between icons** to **20px**.  
+6. Align the **Auto Layout** at the **bottom center** of the **Home Frame**, ensuring a balanced design with proper spacing from other elements.  
+
+Now that the home page is complete, the next step is designing the **Portfolio Page**, where Evelyne showcases her work in a visually appealing layout.
 
 [NEXT STEP: Designing the Portfolio Page](portfolio-page.html){: .btn .btn-blue }  
