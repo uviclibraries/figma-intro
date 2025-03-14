@@ -49,7 +49,7 @@ To keep the header and the new divider aligned properly, we will apply **Auto La
 2. **Right-click** and choose **Add Auto Layout** from the menu.  
 3. In the **Right Sidebar**, under **Auto Layout Settings**, set the **Vertical Spacing** to **21**.  
 
- <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/head-div.gif">
     </div>
