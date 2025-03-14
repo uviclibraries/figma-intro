@@ -138,4 +138,17 @@ All the social media icons required are already provided in the assets you downl
 
 Now that the home page is complete, the next step is designing the **Portfolio Page**, where Evelyne showcases her work in a visually appealing layout.
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
+
 [NEXT STEP: Designing the Portfolio Page](portfolio-page.html){: .btn .btn-blue }  
