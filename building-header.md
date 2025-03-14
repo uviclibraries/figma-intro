@@ -50,11 +50,11 @@ Next, we’ll add text links on the left side of the header.
 2. Click on any spot close to the top left of the frame and type **"Home"**  
 3. In the **Layers Panel**, ensure the text layer is selected.  
 4. In the **Right Sidebar**, set the following properties:  
-   - **Font Family:** Iowan Old Style  
+   - **Font Family:** Noto Serif JP  
    - **Font Size:** 16  
    - **Font Style:** Roman *(this is selected via the dropdown to the left of the font size input)*  
    - **Text Alignment:** Left  
-<img src="images/left-nav-typography.png" style="width:300px">  
+<img src="images/notoserif.png" style="width:300px">  
 5. Repeat the  steps to create two more text layers for **"About Me"** and **"Portfolio"**.  
 6. Drag and position the text layers **side by side** in a horizontal row.  
 7. Hold down the **Shift key** and click on each of the three text layers (**Home**, **About Me**, and **Portfolio**) to select them all.  
