@@ -36,6 +36,11 @@ To separate the navigation from the portfolio content, we will add a **thin whit
    - **Stroke Weight:** 1px  
    - **Length:** Stretch it from the **left edge of "Home"** to the **right edge of "Contact Me"**.  
 
+   <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/line-portfolio.gif">
+    </div>
+
 ## Grouping the Header and Divider  
 
 To keep the header and the new divider aligned properly, we will apply **Auto Layout**.  
