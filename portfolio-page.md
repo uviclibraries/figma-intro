@@ -206,4 +206,16 @@ To complete the **Portfolio Page**, we will add a simple footer with a copyright
 
 Now that the **footer is complete**, the Portfolio Page is fully designed! The next step is **adding an animation** to link the **Portfolio navigation link** and the **"My Portfolio" button** on the Home Page to the Portfolio Page
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 [NEXT STEP: Adding Page Transition Animations](linking-across-pages.html){: .btn .btn-blue }  
