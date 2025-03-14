@@ -101,6 +101,11 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
 - **Height:** 100  
 5. In the **Fill** section, change the color to **#D9A159** (a warm gold tone).  
 
+   <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src="images/ellipse-home.gif">
+    </div>
+
 #### Adding the Arrow Icon  
 
 1. Press **Shift + L** to activate the **Arrow Tool**, or click on the **Arrow** icon from the bottom toolbar.  
