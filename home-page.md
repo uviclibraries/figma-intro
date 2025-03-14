@@ -22,13 +22,13 @@ To begin designing the **home page**, we will start by adding the main image. Al
 1. Ensure the **Home Frame** is selected in the **Layers Panel**.  
 2. Click on the shape icon (as seen below) in the **bottom toolbar**.  
 3. From the dropdown menu, select **"Image/video"**.  
-<img src="images/insert-image.png" style="width:80%">
+<img src="images/insert-image.png" style="width:60%">
 4. In the file selection window, choose the **image** titled **woman-holding-flower**
 5. Move your cursor over the **Home Frame** and **click once** to place the image inside the frame.  
 6. With the image selected, go to the **Right Sidebar** and set the dimensions under Layout:  
    - **Width:** 481  
-   - **Height:** 722 
-<img src="images/center-img-dim.png" style="width:300px">
+   - **Height:** 722<br> 
+<img src="images/center-img-dim.png" style="width:250px">
 7. If the image seems to disappear, but if you zoom out, you may find it near the top left of your Figma file. Manually drag it back to center it within the Home frame.
 
 ## Adding a Drop Shadow  
