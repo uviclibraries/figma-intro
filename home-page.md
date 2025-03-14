@@ -117,7 +117,7 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
 1. Press **T** to create a new text layer below the button.  
 2. Type **"My Portfolio"**.  
 3. In the **Right Sidebar**, adjust the text properties:  
-- **Font Family:** Iowan Old Style  
+- **Font Family:** Noto Serif JP  
 - **Font Size:** 22  
 - **Font Weight:** Roman  
 - **Text Color:** White (#FFFFFF)  
