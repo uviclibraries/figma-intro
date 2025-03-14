@@ -139,7 +139,12 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
 1. Select the **circle, arrow, and text** together.  
 2. **Right-click** and select **Group Selection** to keep them as one unit.  
 3. Drag the button group to the **right side** of the **Home Frame**, ensuring balanced spacing from the image.  
-  
+
+     <button onclick="toggle('gif4')">Show/Hide Animation</button>
+    <div id="gif4">
+    <img src="images/button-home.gif">
+    </div>
+
 #### Creating the Auto Layout for Social Icons  
 
 All the social media icons required are already provided in the assets you downloaded in step 2 of the **Pre-Workshop Activities**.  
