@@ -24,7 +24,7 @@ Linking pages in Figma allows you to create a **clickable prototype** that simul
    - **Destination**: Portfolio  
    - **Animation**: Smart animate  
    - **Curve**: Ease out 
-   - **Duration**: 300ms
+   - **Duration**: 300ms<br>
 <img src="images/smart-animate.png" style="width:300px">  
 
 ## 2. Linking the "My Portfolio" button  
