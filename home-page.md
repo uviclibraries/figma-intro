@@ -42,7 +42,7 @@ Now, let's add a subtle **drop shadow** effect to enhance the image.
    - **Position:** X = 8, Y = -8  
    - **Blur:** 10  
    - **Spread:** 2  
-   - **Color:** **#D8C3A5** with **25% opacity**
+   - **Color:** **#D8C3A5** with **25% opacity**<br>
 <img src="images/drop-shadow-settings.png" style="width:400px">
 
 
@@ -78,7 +78,7 @@ With the text selected, go to the **Right Sidebar** under **Typography** and set
 1. Click and **drag the text** towards the left side of the **Home Frame** while observing the **red alignment guides**.  
 2. Position it so that it is **aligned horizontally with the center of the image** but slightly offset to the left.  
 3. Adjust the vertical positioning if needed to create a **balanced layout**.  
-<img src="images/headline-text.png" style="width:100%">
+<img src="images/headline-text.png" style="width:60%">
 
 
 ### Adding the Portfolio Button  
