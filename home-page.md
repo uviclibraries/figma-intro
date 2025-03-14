@@ -117,6 +117,11 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
 3. Change the arrow color to **White (#FFFFFF)**.  
 4. Position the arrow in the **center** of the circle using the **alignment guides**.  
 
+   <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/arrow-home.gif">
+    </div>
+
 #### Adding the Button Label  
 
 1. Press **T** to create a new text layer below the button.  
