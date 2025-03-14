@@ -31,6 +31,11 @@ To begin designing the **home page**, we will start by adding the main image. Al
 <img src="images/center-img-dim.png" style="width:250px">
 7. If the image seems to disappear, but if you zoom out, you may find it near the top left of your Figma file. Manually drag it back to center it within the Home frame.
 
+   <button onclick="toggle('gif5')">Show/Hide Animation</button>
+    <div id="gif5">
+    <img src="images/image-home.gif">
+    </div>
+
 ## Adding a Drop Shadow  
 
 Now, let's add a subtle **drop shadow** effect to enhance the image.  
