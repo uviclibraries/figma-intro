@@ -82,7 +82,7 @@ In our design, a **Project Card** consists of an image, a title, and a short des
 <img src="images/rect-image.png" style="width:100%;">  
 5. Press **T** to add a text layer below the image and type a **project title**, such as: "Paris Fashion Week"
 6. Adjust the text properties:  
-- **Font Family:** Iowan Old Style  
+- **Font Family:** Noto Serif JP 
 - **Font Size:** 20  
 - **Font Weight:** Roman  
 - **Text Color:** White (#FFFFFF) 
@@ -126,7 +126,7 @@ Now, let’s add a fashion-related quote after the second project card.
   ```
 
 3. In the **Right Sidebar**, set the typography properties:  
-- **Font Family:** Iowan Old Style  
+- **Font Family:** Noto Serif SP
 - **Font Size:** 16  
 - **Font Weight:** Roman  
 - **Text Color:** White (#FFFFFF)  
@@ -201,7 +201,7 @@ To complete the **Portfolio Page**, we will add a simple footer with a copyright
 ```
 
 3. In the **Right Sidebar**, set the typography properties:  
-- **Font Family:** Iowan Old Style  
+- **Font Family:** Noto Serif SP 
 - **Font Size:** 16  
 - **Font Weight:** Roman  
 - **Text Color:** White (#FFFFFF)  
