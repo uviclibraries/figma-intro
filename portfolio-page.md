@@ -21,7 +21,7 @@ The **Portfolio Page** showcases featured projects in a clean and structured lay
 1. In the layers panel, select the **Home** frame and duplicate it using Command + D on Mac or Control + D on Windows.
 2. Clear all its content asides from the Header
 3. Double-click on the frame name (default should be "Desktop - 1") and rename it to **"Portfolio"** 
-4. On the **Right Sidebar**, increase the height of the frame to 1520 to allow more content to fit onto the Portfolio frame
+4. On the **Right Sidebar**, increase the height of the frame to 1520 to allow more content to fit onto the Portfolio frame.<br>
 <img src="images/incr-height.png" style="width:50%;">  
 
 ## Adding a Divider Line  
@@ -128,7 +128,7 @@ Now, let’s add a fashion-related quote after the second project card.
 - **Text Alignment:** Left  
 4. Adjust the width of the text layer to 214 so that it fits into about three lines
 5. Position the quote **to the right of the project cards**.  
-<img src="images/right-quote.png" style="width:100%;">  
+<img src="images/right-quote.png" style="width:60%;">  
 
 
 ## Creating a Horizontal Auto Layout  
