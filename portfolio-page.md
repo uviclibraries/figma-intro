@@ -54,7 +54,7 @@ Now, we will add a **title** to introduce the portfolio section.
 2. Press **T** to activate the **Text Tool**, or click the **Text** icon in the bottom toolbar.  
 3. Click inside the **Portfolio Frame** and type: "My Portfolio"  
 4. In the **Right Sidebar**, set the typography properties:  
-- **Font Family:** Iowan Old Style  
+- **Font Family:** Noto Serif JP  
 - **Font Size:** 48  
 - **Font Weight:** Roman
 - **Text Color:** White (#FFFFFF)  
