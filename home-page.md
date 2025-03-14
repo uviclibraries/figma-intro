@@ -63,6 +63,11 @@ YOUR FASHION COMPASS
 
 4. In the **Layers Panel**, select the newly created text layer.  
 
+   <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/text-home.gif">
+    </div>
+
 ### Styling the Text  
 
 With the text selected, go to the **Right Sidebar** under **Typography** and set:  
