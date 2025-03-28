@@ -29,7 +29,8 @@ The logo will be a **text-based brand name** positioned at the center of the hea
 5. In the **Right Sidebar**, set the following properties:  
    - **Font Family:** Redressed  
    - **Font Size:** 36  
-   - **Text Alignment:** Center  
+   - **Text Alignment:** Center
+   - Make sure the colour is selected to white FFFF: F0F0F0
 <img src="images/logo-typography.png" style="width:300px">  
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
