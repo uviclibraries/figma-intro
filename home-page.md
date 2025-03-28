@@ -108,7 +108,7 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
 
    <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
-    <img src="images/ellipse-home.gif">
+    <img src="images/home-ellipse.gif">
     </div>
 
 #### Adding the Arrow Icon  
