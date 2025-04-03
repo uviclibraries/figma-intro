@@ -42,8 +42,10 @@ Linking pages in Figma allows you to create a **clickable prototype** that simul
 ## 4. Testing Your Prototype  
 
 1. Click the **Present** button (▶) in the top-right corner of Figma.  
-2. Navigate through the links by clicking on the buttons we just added prototype bahaviors to.  
+2. Navigate through the links by clicking on the buttons we just added prototype behaviors to.  
 3. Observe the **Smart Animate** transitions and confirm the navigation flow feels smooth.  
+
+> **Note:** When you launch the prototype, it will open in a new window. You might need to resize it to fit your full screen for the best viewing experience — or click the **fullscreen icon** in the top-right corner of the prototype window.
 
 
 Now that your pages are linked with smooth **Smart Animate transitions**, the next step is designing the **About Me Page**, where we will introduce Evelyne with structured sections and interactive elements.  

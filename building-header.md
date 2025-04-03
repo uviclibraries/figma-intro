@@ -22,7 +22,7 @@ Before you begin, take a look at the **final result** you’ll be working toward
 The logo will be a **text-based brand name** positioned at the center of the header. Follow these steps:  
 
 1. Select the **"Home" Frame** in the **Layers Panel** to ensure you are working within the correct space.  
-2. Press **T** to activate the **Text Tool**, or click the **Text** icon in the bottom toolbar.  
+2. On your keyboard, press **T** to activate the **Text Tool**, or click the **Text** icon in the bottom toolbar.  
 <img src="images/text-icon.png" style="width:100%;">  
 3. Click anywhere near the **top center** of the frame and type: **"Evelyne"** (or customize by using your own first name).  
 4. In the **Layers Panel**, click on the new text layer to ensure it's fully selected.  
@@ -47,17 +47,17 @@ The logo will be a **text-based brand name** positioned at the center of the hea
 
 Next, we’ll add text links on the left side of the header.  
 
-1. Press **T** to activate the **Text Tool**, or click the **Text** icon in the bottom toolbar.  
+1. On your keyboard, press **T** to activate the **Text Tool**, or click the **Text** icon in the bottom toolbar.  
 2. Click on any spot close to the top left of the frame and type **"Home"**  
 3. In the **Layers Panel**, ensure the text layer is selected.  
 4. In the **Right Sidebar**, set the following properties:  
    - **Font Family:** Noto Serif JP  
    - **Font Size:** 16  
-   - **Font Style:** Roman *(this is selected via the dropdown to the left of the font size input)*  
+   - **Font Style:** Regular *(this is selected via the dropdown to the left of the font size input)*  
    - **Text Alignment:** Left  
 <img src="images/notoserif.png" style="width:300px">  
 5. Repeat the  steps to create two more text layers for **"About Me"** and **"Portfolio"**.  
-6. Drag and position the text layers **side by side** in a horizontal row.  
+6. Drag and position the **text layers** side by side in a horizontal row.  
 7. Hold down the **Shift key** and click on each of the three text layers (**Home**, **About Me**, and **Portfolio**) to select them all.  
 8. Release the **Shift key** while keeping the text layers selected. **Right-click** on the selection and choose **Add Auto Layout** from the list (Shortcut: Press **Shift + A**).  
    - The text items should now be evenly spaced horizontally.  
@@ -75,12 +75,12 @@ Next, we’ll add text links on the left side of the header.
 
 Now that the navigation links are properly aligned and spaced, we'll move on to designing the **"Contact Me"** link.
 
-1. Press **T** to create a new text layer and type: **"Contact Me"**  
+1. On your keyboard, press **T** to create a new text layer and type: **"Contact Me"**  
 
 2. In the **Right Sidebar**, set the following properties:  
-   - **Font Family:** Iowan Old Style  
+   - **Font Family:** Noto Serif JP  
    - **Font Size:** 16  
-   - **Font Style:** Roman  
+   - **Font Style:** Regular  
    - **Text Alignment:** Right  
 
 3. To add an **underline**, follow these steps:  

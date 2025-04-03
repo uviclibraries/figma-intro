@@ -29,7 +29,7 @@ To begin designing the **home page**, we will start by adding the main image. Al
    - **Width:** 481  
    - **Height:** 722<br> 
 <img src="images/center-img-dim.png" style="width:250px">
-7. If the image seems to disappear, but if you zoom out, you may find it near the top left of your Figma file. Manually drag it back to center it within the Home frame.
+7. If the image seems to disappear: zoom out and you will likely find it near the top left of your Figma file. Manually drag it back to center it within the Home frame.
 
    <button onclick="toggle('gif5')">Show/Hide Animation</button>
     <div id="gif5">
@@ -58,7 +58,7 @@ Now, we will add the main **headline text** to the home page and style it to mat
 ### Adding the Text  
 
 1. Ensure the **Home Frame** is selected in the **Layers Panel**.  
-2. Press **T** to activate the **Text Tool**, or click on the **Text** icon in the bottom toolbar.  
+2. On your keyboard, press **T** to activate the **Text Tool**, or click on the **Text** icon in the bottom toolbar.  
 3. Click inside the **Home Frame** and type the following text:  
 
 ```
@@ -95,10 +95,10 @@ With the text selected, go to the **Right Sidebar** under **Typography** and set
 
 Now, let’s create the **"My Portfolio"** button with an arrow icon.  
 
-#### Creating the Button Shape  
+### Creating the Button Shape  
 
 1. Ensure the **Home Frame** is selected.  
-2. Press **O** to activate the **Ellipse Tool**, or click on the **Ellipse** icon from the bottom toolbar.  
+2. On your keyboard, press **O** to activate the **Ellipse Tool**, or click on the **Ellipse** icon from the bottom toolbar.  
 <img src="images/ellipse-tool.png" style="width:400px">
 3. Click and **drag** to create a perfect circle.  
 4. In the **Right Sidebar**, set the **exact dimensions**:  
@@ -111,9 +111,9 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
     <img src="images/home-ellipse.gif">
     </div>
 
-#### Adding the Arrow Icon  
+### Adding the Arrow Icon  
 
-1. Press **Shift + L** to activate the **Arrow Tool**, or click on the **Arrow** icon from the bottom toolbar.  
+1. On your keyboard, press **Shift + L** to activate the **Arrow Tool**, or click on the **Arrow** icon from the bottom toolbar.  
 <img src="images/arrow-tool.png" style="width:400px">
  
 2. In the **Right Sidebar**, set the **exact dimensions**:  
@@ -127,19 +127,19 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
     <img src="images/arrow-home.gif">
     </div>
 
-#### Adding the Button Label  
+### Adding the Button Label  
 
-1. Press **T** to create a new text layer below the button.  
+1. On your keyboard, press **T** to create a new text layer below the button.  
 2. Type **"My Portfolio"**.  
 3. In the **Right Sidebar**, adjust the text properties:  
 - **Font Family:** Noto Serif JP  
 - **Font Size:** 22  
-- **Font Weight:** Roman  
+- **Font Weight:** Regular  
 - **Text Color:** White (#FFFFFF)  
 - **Text Alignment:** Center  
 4. Drag the text **below the button**, ensuring it's properly aligned using the **red guidelines**.  
 
-#### Grouping and Positioning  
+### Grouping and Positioning  
 
 1. Select the **circle, arrow, and text** together.  
 2. **Right-click** and select **Group Selection** to keep them as one unit.  
@@ -150,7 +150,7 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
     <img src="images/button-home.gif">
     </div>
 
-#### Creating the Auto Layout for Social Icons  
+### Creating the Auto Layout for Social Icons  
 
 All the social media icons required are already provided in the assets you downloaded in step 2 of the **Pre-Workshop Activities**.  
 

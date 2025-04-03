@@ -5,6 +5,9 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
+### Download the Assets
+If you haven’t already, go ahead and [download the resources](https://uviclibraries.github.io/figma-intro/resources/figma-intro-resources.zip) we’ll be using in this workshop. It includes icons and images to help us build our prototype. Once it’s downloaded, just unzip the file to access everything. Feel free to use your own images too if you want to add a personal touch to your design.
+
 ### Section Preview  
 
 Before you begin, take a look at the **final result** you’ll be working towards in this section:  
@@ -19,9 +22,10 @@ Before you begin, take a look at the **final result** you’ll be working toward
 
 1. Open **Figma** in your web browser [using this link](https://www.figma.com) or launch the **Figma Desktop App**.  
 2. Log in with your Figma account. If you don’t have one, create a free account.  
-3. On the **Figma Home** screen, click on the **New Design File** button.  
-4. A blank Figma file will open in a new tab.  
-5. Right now, your file doesn’t have a name. Click on **"Untitled"** in the top left corner, type **"Figma Intro Workshop"**, and press **Enter** to save this as the filename.
+3. On the **Figma Home** screen, click on the **Create** button on the top right.  
+4. Then in the dropdown that appears, select **Design File**.  
+5. A blank Figma file will open in a new tab.  
+6. Right now, your file doesn’t have a name. Click on **"Untitled"** in the top left corner, type **"Figma Intro Workshop"**, and press **Enter** to save this as the filename.
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
