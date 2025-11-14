@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Page - Adding the Image
+title: 4-Home Page - Adding the Image
 nav_order: 5
 parent: Workshop Activities
 ---
