@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Working with Frames
+title: 2-Working with Frames
 nav_order: 3
 parent: Workshop Activities
 ---
