@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Building the Header
+title: 3-Building the Header
 nav_order: 4
 parent: Workshop Activities
 ---
