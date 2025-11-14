@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create a design file
+title: 1-Create a design file
 nav_order: 2
 parent: Workshop Activities
 ---
