@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adding Page Transitions with Smart Animate
+title: 6-Adding Page Transitions with Smart Animate
 nav_order: 7
 parent: Workshop Activities
 ---
