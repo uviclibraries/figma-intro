@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Challenge - Design the About Me Page
+title: 7-Challenge - Design the About Me Page
 nav_order: 8
 parent: Workshop Activities
 ---
