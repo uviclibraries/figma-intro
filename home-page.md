@@ -113,7 +113,7 @@ Now, let’s create the **"My Portfolio"** button with an arrow icon.
 
 ### Adding the Arrow Icon  
 
-1. On your keyboard, press **Shift + L** to activate the **Arrow Tool**, or click on the **Arrow** icon from the bottom toolbar.  
+1. On your keyboard, press **Shift + L** to activate the **Arrow Tool**, or click on the **Arrow** icon from the bottom toolbar. Draw a horizontal arrow pointing right.
 <img src="images/arrow-tool.png" style="width:400px">
  
 2. In the **Right Sidebar**, set the **exact dimensions**:  
