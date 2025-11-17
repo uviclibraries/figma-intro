@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portfolio Page - Setting Up the Structure
+title: 5-Portfolio Page - Setting Up the Structure
 nav_order: 6
 parent: Workshop Activities
 ---
