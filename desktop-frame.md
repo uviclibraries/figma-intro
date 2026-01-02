@@ -5,65 +5,70 @@ nav_order: 3
 parent: Workshop Activities
 ---
 
-### Section Preview  
+### Section Preview
 
-Before you begin, take a look at the **final result** you’ll be working towards in this section:  
+Before you begin, take a look at the **final result** you’ll be working towards in this section. We are setting the stage for our design.
 
-<img src="images/desktop-frame-final.png" style="width:50%;">  
+<img src="images/desktop-frame-final.png" style="width:50%;">
 
 ---
 
-# Working with Frames  
+# Working with Frames
 
-If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Have fun!  
+In Figma, we don't use "Artboards" or "Pages" in the traditional sense. We use **Frames**. A Frame is a smart container that knows how to adapt to different screen sizes.
 
-## 1. Creating a Desktop Frame  
+## 1. Creating the Canvas
 
-In Figma, **Frames** act as containers for your designs and help structure your layout. Let’s start by adding a **Desktop Frame** to your canvas.  
+1.  **The Shortcut:** Press **F** on your keyboard (or click the grid icon in the top left).
+    <img src="images/frame-icon.png" style="width:100%;">
 
-1. In the **bottom toolbar**, click on the **Frame Tool** (Shortcut: Press **F**).  
-<img src="images/frame-icon.png" style="width:100%;">  
+2.  **Select Size:** On the **Right Sidebar**, you will see a list of device presets. Click **Desktop** > **Desktop** (1440 x 1024).
+    * *Why this size?* It is the industry standard for designing web layouts.
+    <img src="images/desktop-frame-option.png" style="width:200px;">
 
-2. On the **Right Sidebar**, a list of preset frame sizes will appear.  
-3. Scroll down and click on the **Desktop** dropdown, then select the **Desktop** option to create a standard desktop-sized frame.  
-<img src="images/desktop-frame-option.png" style="width:200px;"> 
-4. Your new frame will appear on the canvas. Make sure it is selected before moving to the next step.  
+3.  **Verify:** Your new white frame will appear on the canvas.
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/desktop-frame.gif">
     </div>
 
-5. With the frame selected, go to the **Layers Panel** on the left.  
-6. Double-click on the frame name (default should be "Desktop - 1") and rename it to **"Home"** (see image on the right)
- 
+## 2. Organization (Renaming Layers)
+
+Figma files get messy fast. Professional designers rename their layers immediately.
+
+1.  Look at the **Layers Panel** on the left sidebar.
+2.  Double-click on the default name **"Desktop - 1"**.
+3.  Rename it to **"Home"**.
+
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/layers.gif">
     </div>
-## 2. Applying a Linear Gradient Background  
 
-Now, let’s style the frame with a **linear gradient background**.  
+## 3. Applying the Gradient Background
 
-1. In the **Layers Panel** (on the left sidebar), find and select the "Home" Frame to ensure it's active.  
-2. In the **Right Sidebar**, locate the **Fill** section under **Design**.  
-3. Click on the **color box** to open the color picker.  
-4. In the color picker, click on the **square icon with dots within** to switch from a solid color to a gradient fill.
-5. Two color stops will appear on the gradient bar: The color stops are the arrows on each end of the color bar. The left color stop is for the color at the top of the object (here, the Frame), and the right color stop is for the color at the bottom of your object. Each corresponds to a row beneath the color bar, titled Stops, ordered left to right. 
-<img src="images/linear-gradient-fill.png" style="width:300px;">   
-   - Click on the **first color stop** (top of the gradient) and enter the HEX code: **#5A452D**.  
-   - Click on the **second color stop** (bottom of the gradient) and enter the HEX code: **#C4A484**. 
+We want a premium look, not a flat color. We will use a **Linear Gradient**.
+
+1.  Select your **"Home"** Frame.
+2.  **Open the Color Picker:** In the **Right Sidebar**, look for the **Fill** section and click the color square.
+3.  **Switch to Gradient:** At the top of the color window, click the **Gradient Icon** (it looks like a square fading out).
+    <img src="images/linear-gradient-fill.png" style="width:300px;">
+
+4.  **Set the Colors (Stops):**
+    A gradient is made of two "Stops" (the squares on the line).
+    * **Top Stop (Start):** Click the left square on the line. Paste this Hex code: **`#5A452D`** (Dark Brown).
+    * **Bottom Stop (End):** Click the right square on the line. Paste this Hex code: **`#C4A484`** (Light Beige).
 
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/layer-2.gif">
     </div>
-    
-### Next Steps  
-In the next step, we will **design the header** for our project, including adding a title, logo, and navigation elements.  
 
-<script>  
+### Next Steps
+Now that our canvas is ready, we need to build the navigation.
 
+<script>
     function toggle(input) {
         var x = document.getElementById(input);
         if (x.style.display === "none") {
@@ -73,5 +78,6 @@ In the next step, we will **design the header** for our project, including addin
         }
     }
 </script>
+
 
 [NEXT STEP: Building the Header](building-header.html){: .btn .btn-blue }   
