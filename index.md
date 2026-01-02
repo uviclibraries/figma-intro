@@ -44,5 +44,31 @@ By the end of this workshop, you will:
 - Apply **typography, colors, and images** to your design  
 - Build an **interactive prototype** of your website  
 - Share your design with others for feedback and handoff
- 
+
+ ## Stop Fighting with Templates. Start Designing.
+{: .fs-6 .fw-300 }
+
+You are here because you have a project, a portfolio, or an idea, and you want it to look professional. Today, we are not just learning "buttons" and "menus"—we are learning how to translate your academic identity into a digital format.
+
+By the end of this session, you will have a **fully interactive prototype** of a personal portfolio website.
+
+---
+
+### 🏁 The Goal
+We are building a **Desktop Portfolio Homepage** featuring:
+* A responsive Navigation Bar.
+* A "Hero" section (your intro).
+* A Project Grid (your work).
+* Interactive Links (clicking between pages).
+
+### ⚡️ Why Figma?
+Unlike Canva (which is for images) or PowerPoint (which is for slides), Figma is for **Interfaces**. It is how the actual internet is built. Learning this gives you a superpower: you can prototype *anything*.
+
+### 🎒 Pre-requisites
+1.  **Account:** A free [Figma account](https://www.figma.com/).
+2.  **App:** Ideally, download the Desktop App, but the browser works too.
+3.  **Assets:** Have 1-2 photos of yourself or your work ready on your desktop.
+
+[Get Started: Create Your File 👉](create-design-file)
+
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
