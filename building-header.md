@@ -99,4 +99,5 @@ This is the step that separates beginners from pros. We ensure everything is lin
     }
 </script>
 
-[NEXT STEP: Designing the Home Page](home-page.html){: .btn .btn-blue }  
+
+[NEXT STEP: Designing the Hero](hero-section.html){: .btn .btn-blue }
