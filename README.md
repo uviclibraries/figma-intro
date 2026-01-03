@@ -29,7 +29,6 @@ This material is designed for live instruction, but it also works for self-paced
 
 **Workshop site:** https://uviclibraries.github.io/figma-intro/
 
-## 📄 License
-This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
 
 
