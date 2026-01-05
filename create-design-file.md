@@ -29,7 +29,7 @@ Before you begin, take a look at the **final result** you’ll be working toward
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
-    <img src="images/create-design.gif">
+    <img src="images/FigmaUntitledDesign.gif">
     </div>
     
 ## 2. Setting the Page Background Color  
