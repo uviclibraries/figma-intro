@@ -35,7 +35,7 @@ In Figma, **Frames** act as containers for your designs and help structure your 
     </div>
 
 5. With the frame selected, go to the **Layers Panel** on the left.  
-6. Double-click on the frame name (default should be "Desktop - 1") and rename it to **"Home"** (see image on the right)
+6. Double-click on the frame name (default should be "Desktop - 1") and rename it to **"Home"** (see image below)
  
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
