@@ -30,7 +30,7 @@ The logo will be a **text-based brand name** positioned at the center of the hea
    - **Font Family:** Redressed  
    - **Font Size:** 36  
    - **Text Alignment:** Center
-   - Make sure the colour is selected to white FFFF: F0F0F0
+   - Make sure the colour is selected to white FFFFF
 <img src="images/logo-typography.png" style="width:300px">  
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
