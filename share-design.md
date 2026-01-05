@@ -27,7 +27,7 @@ When sharing, you can control **who can view or edit** your design:
 
 Alternatively, you can generate a **link** to share:  
 1. Click **Copy Prototype Link** near the bottom of the Share pop-up to share a view-only presentation of your Figma design.
-2. Click **Copy Dev Mode Link** to share the open development version of your Figma design if you want people to be able to edit it. 
+2. Click **Copy Dev Mode Link** to share an editable version of your Figma design. Note your collaborator will need to make an account and also request permission to edit which will be at the bottom of the screen in blue.   
 
 
 ## 3. Presenting Your Design  
