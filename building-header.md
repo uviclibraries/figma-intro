@@ -61,7 +61,7 @@ We want our menu links to stay evenly spaced, even if we change the words later.
 <img src="images/spacing-73.png" style="width:300px">
 
 <button onclick="toggle('gif2')">Show/Hide Animation</button>
-<div id="gif2">
+<div id="gif1" style="display:none;">
 <img src="images/nav2.9.gif">
 </div>
 
