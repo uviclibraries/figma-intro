@@ -25,9 +25,9 @@ This workshop is designed to be **mostly hands-on**. The “presentation” is c
 ## Workshop Format (how we run this)
 We repeat a simple training loop:
 
-1) **Demo (90 seconds)**: instructor shows the move  
-2) **Build (5–8 minutes)**: you do it  
-3) **Variation (2 minutes)**: you change something intentionally  
+1) **Demo**
+2) **Build **
+3) **Variation**: you change something intentionally  
 4) **Checkpoint**: you prove it works (not “looks kind of ok”)
 
 If you only copy exact values, you will leave with a fragile design and zero skill. Don’t do that.
