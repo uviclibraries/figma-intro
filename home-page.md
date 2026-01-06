@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4-Home Page - Adding the Image
-nav_order: 5
+nav_order: 7
 parent: Workshop Activities
 ---
 
