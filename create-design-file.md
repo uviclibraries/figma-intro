@@ -63,4 +63,4 @@ In the next step, we will learn about **Frames** and how to structure our design
         }
     }
 </script>
-[NEXT STEP: Working with Frames](desktop-frame.html){: .btn .btn-blue }  
+[NEXT STEP: Working with Frames](desktop-frame.html)
