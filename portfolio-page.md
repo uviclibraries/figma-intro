@@ -163,4 +163,5 @@ Now that the **footer is complete**, the Portfolio Page is fully designed!
         }
     }
 </script>
-[NEXT STEP: Adding Page Transition Animations](linking-across-pages.html){: .btn .btn-blue }  
+
+[NEXT STEP: Adding Page Transition Animations](linking-across-pages.html)
