@@ -3,7 +3,6 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images\figma-logo.png" alt="tableau logo" style="float:right;width:250px;"> 
 
 <div style="display:flex; gap:24px; align-items:center; flex-wrap:wrap; margin: 12px 0 20px 0;">
   <div style="flex:1; min-width:280px;">
