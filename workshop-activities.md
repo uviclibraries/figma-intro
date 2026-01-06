@@ -7,8 +7,8 @@ has_toc: true
 ---
 
 # Workshop Activities
-
 This workshop is designed to be **mostly hands-on**. The “presentation” is capped at **15 minutes**. The rest is you building.
+
 <div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start; margin: 12px 0 18px 0;">
   <div style="flex:1; min-width:280px;">
     <h3 style="margin-top:0;">Training Loop</h3>
@@ -24,7 +24,6 @@ This workshop is designed to be **mostly hands-on**. The “presentation” is c
     <img src="images/portfolio-final.jpg" alt="Final portfolio page preview" style="width:100%; border:1px solid #e5e7eb; border-radius:12px;">
   </div>
 </div>
->
 
 ## Workshop Format (how we run this)
 We repeat a simple training loop:
