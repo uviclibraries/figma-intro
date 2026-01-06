@@ -9,18 +9,22 @@ has_toc: true
 # Workshop Activities
 
 This workshop is designed to be **mostly hands-on**. The “presentation” is capped at **15 minutes**. The rest is you building.
-
-<div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap; margin: 14px 0 18px 0;">
-  <div style="flex:2; min-width:280px;">
-    <div class="note">
-      <p><strong>Workshop rule:</strong> presentation is capped at <strong>15 minutes</strong>. The rest is hands-on.</p>
-      <p>We repeat: <strong>Demo  → Build → Variation  → Checkpoint</strong>.</p>
-    </div>
+<div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start; margin: 12px 0 18px 0;">
+  <div style="flex:1; min-width:280px;">
+    <h3 style="margin-top:0;">Training Loop</h3>
+    <ul>
+      <li><strong>Demo (90s)</strong></li>
+      <li><strong>Build (6–8m)</strong></li>
+      <li><strong>Variation (2m)</strong></li>
+      <li><strong>Checkpoint</strong></li>
+    </ul>
   </div>
-  <div style="flex:1; min-width:240px; text-align:right;">
-    <img src="images/hero/illust-coworkers.png" alt="Collaboration illustration" style="max-width:340px; width:100%; height:auto;">
+
+  <div style="flex:2; min-width:280px;">
+    <img src="images/portfolio-final.jpg" alt="Final portfolio page preview" style="width:100%; border:1px solid #e5e7eb; border-radius:12px;">
   </div>
 </div>
+>
 
 ## Workshop Format (how we run this)
 We repeat a simple training loop:
