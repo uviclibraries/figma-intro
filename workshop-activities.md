@@ -14,7 +14,7 @@ This workshop is designed to be **mostly hands-on**. The “presentation” is c
   <div style="flex:2; min-width:280px;">
     <div class="note">
       <p><strong>Workshop rule:</strong> presentation is capped at <strong>15 minutes</strong>. The rest is hands-on.</p>
-      <p>We repeat: <strong>Demo (90s) → Build (6–8m) → Variation (2m) → Checkpoint</strong>.</p>
+      <p>We repeat: <strong>Demo  → Build → Variation  → Checkpoint</strong>.</p>
     </div>
   </div>
   <div style="flex:1; min-width:240px; text-align:right;">
