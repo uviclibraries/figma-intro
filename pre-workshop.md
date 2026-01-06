@@ -20,4 +20,4 @@ Download it from: [figma.com/downloads](https://www.figma.com/downloads){:target
 
 <br/>
 
-[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
+[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html)
