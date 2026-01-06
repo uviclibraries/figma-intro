@@ -12,7 +12,7 @@ We have a header, but our page is empty. We are going to design the "Hero" secti
 
 ---
 
-# Designing the Hero Section
+# Designing the Main Section
 
 ## 1. The "Hook" (Headline)
 1.  Select your **Home** frame.
@@ -81,4 +81,4 @@ We have a header, but our page is empty. We are going to design the "Hero" secti
     }
 </script>
 
-[NEXT STEP: Building the Portfolio Grid](portfolio-page.html){: .btn .btn-blue }
+[NEXT STEP: Building the Portfolio Grid](portfolio-page.html)
