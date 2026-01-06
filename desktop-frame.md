@@ -29,7 +29,7 @@ In Figma, we don't use "Artboards" or "Pages" in the traditional sense. We use *
 3.  **Verify:** Your new white frame will appear on the canvas.
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
+    <div id="gif1" style="display:none;">
     <img src="images/desktop-frame.gif">
     </div>
 
@@ -42,7 +42,7 @@ Figma files get messy fast. Professional designers rename their layers immediate
 3.  Rename it to **"Home"**.
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
-    <div id="gif2">
+    <div id="gif1" style="display:none;">
     <img src="images/layers.gif">
     </div>
 
@@ -61,7 +61,7 @@ We want a premium look, not a flat color. We will use a **Linear Gradient**.
     * **Bottom Stop (End):** Click the right square on the line. Paste this Hex code: **`#C4A484`** (Light Beige).
 
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
-    <div id="gif3">
+   <div id="gif1" style="display:none;">
     <img src="images/layer-2.gif">
     </div>
 
