@@ -101,4 +101,4 @@ You can now share this prototype link with anyone (even if they don't have Figma
     }
 </script>
 
-[NEXT STEP: Designing the About Me Page](about-page.html){: .btn .btn-blue }  
+[NEXT STEP: Designing the About Me Page](about-page.html) 
