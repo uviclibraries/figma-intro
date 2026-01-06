@@ -7,10 +7,10 @@ nav_order: 1
 
 <div style="display:flex; gap:24px; align-items:center; flex-wrap:wrap; margin: 12px 0 20px 0;">
   <div style="flex:1; min-width:280px;">
-    <img src="images/hero/figma-icon.png" alt="Figma icon" style="width:84px; height:auto; margin-bottom:10px;">
-    <h1 style="margin:0;">Build a Website UI with Figma</h1>
+    <img src="images/figma-logo.png" alt="Figma logo" style="width:180px; margin-bottom:10px;">
+    <h1 style="margin:0;">Figma Intro Workshop</h1>
     <p style="margin-top:8px;">
-      15 minutes of concepts. Then you build. No endless talking. No passive watching.
+      15 minutes of concepts. Then you build. Most workshops talk forever and teach nothing. This one makes you work.
     </p>
     <p style="margin-top:10px;">
       <a class="btn btn-blue" href="pre-workshop.html">NEXT STEP: Pre-Workshop</a>
@@ -18,11 +18,9 @@ nav_order: 1
   </div>
 
   <div style="flex:1; min-width:280px; text-align:right;">
-    <img src="images/hero/illust-learning.png" alt="Learning illustration" style="max-width:520px; width:100%; height:auto;">
+    <img src="images/home-final.jpg" alt="Final home page preview" style="max-width:520px; width:100%; border:1px solid #e5e7eb; border-radius:12px;">
   </div>
 </div>
-
-
 
 # Build a Website UI with Figma
 
