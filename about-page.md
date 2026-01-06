@@ -1,70 +1,83 @@
 ---
 layout: default
 title: 7 - Challenge: Design the About Me Page
-nav_order: 8
+nav_order: 10
 parent: Workshop Activities
 ---
 
-# Challenge: Design the About Me Page
+# Challenge: Design the About Me Page (15 minutes)
 
-You’ve learned how to structure sections, place images, and create simple navigation. Now it’s time to apply those skills without step-by-step hand-holding (because the real world doesn’t come with it either).
+This is where you stop following instructions and start making decisions like a designer.
 
-Your task: **recreate the About Me page layout** shown below using the same principles you used in the previous pages.
+## Timebox
+You get **15 minutes**:
+- 2 min: plan layout
+- 10 min: build
+- 3 min: prototype + cleanup
 
-## What the Final Design Should Look Like
+## Goal
+Recreate an About Me page that matches your design system:
+- Same header/nav style as your other pages
+- Clear typography hierarchy
+- Balanced layout (not a wall of text)
 
-Before you start, study the layout and notice:
-- the **grid/alignment**
-- the **spacing**
-- the **text hierarchy** (big headline → smaller body text)
-- the **visual balance** (image weight vs text weight)
+## Required sections (must include all)
+1) **Header**
+- Reuse your header style (logo/title + nav links)
 
-<img src="images/about-final.jpg" style="width:80%; max-width:900px; border:1px solid #ddd; border-radius:8px;" alt="Final About Me Page Design">
+2) **Hero / Intro**
+- A profile image (or placeholder shape)
+- Name/title line
+- Short bio paragraph (3–5 lines)
 
-## What You Need (Assets)
+3) **Skills / Focus Area**
+- 3–6 items (icons optional)
+- Use consistent spacing and alignment
 
-All required icons and images are included in the assets you downloaded in **Pre-Workshop Activities (Step 2)**.
-- If you can’t find them, re-download the zip from the Pre-Workshop page.
-- Keep your assets organized (don’t drag random files onto the canvas and hope for the best).
+4) **Call to Action**
+- A button (Contact / View Work / Download CV)
+- Make it visually obvious
 
-## Requirements (Don’t Skip These)
+## Build plan (do this in order)
+### Step 1: Duplicate a page to reuse structure
+Duplicate your Home or Portfolio frame and rename it **About Me**.
+This keeps the header consistent and saves time.
 
-Your About Me page must include:
-1. **A page title / heading** (clear and larger than body text)
-2. **A profile image or hero image**
-3. **At least 2 short paragraphs** (body text)
-4. **At least 2 icons** (or small supporting visuals)
-5. **A clear navigation element** (button or link style) that matches your other pages
+### Step 2: Block layout first (no details)
+Draw 3 large rectangles as layout placeholders:
+- Hero block
+- Skills block
+- CTA block
+Then replace rectangles with real content.
 
-## Tips (So This Doesn’t Turn Into Chaos)
+### Step 3: Add content + spacing rules
+- Align everything to a consistent left margin
+- Use spacing increments (e.g., 16 / 24 / 32)
+- Rename your key layers (Header / Hero / Skills / CTA)
 
-- **Use Frames, not Rectangles** for main page structure.
-- **Group related elements** (image + caption, icon + text, etc.).
-- **Align everything** (use Figma’s smart guides and alignment tools).
-- **Keep spacing consistent** (don’t eyeball it wildly).
-- **Use 2 font sizes max** for simplicity (headline + body).
-- Optional (advanced): try **Auto Layout** for a clean stacked section.
+### Step 4: Prototype the nav
+In **Prototype** tab:
+- Link **About Me** in your header to this frame
+- Link **Home** back to Home frame
+- Test in Present mode
 
-## Checkpoint: You’re Done When…
+## Checkpoint (you’re done when)
+- [ ] Text is readable and aligned
+- [ ] Spacing is consistent across sections
+- [ ] Header looks like the same “site” as your other pages
+- [ ] At least **one prototype link** navigates correctly
 
-Use this checklist before moving on:
-- [ ] Text is aligned and readable
-- [ ] Spacing looks consistent across sections
-- [ ] Icons/images are not stretched or pixelated
-- [ ] The page looks visually balanced (not top-heavy or empty)
-- [ ] Navigation is clear and matches your design system
+## Peer review (2 minutes)
+Swap with a partner (or self-check brutally):
+- What’s the first thing your eye sees? (Should be the headline, not random clutter)
+- Is there any “almost aligned” spacing? Fix it.
+- Do sections feel grouped? If not, add spacing or dividers.
 
-## Common Mistakes (Fix These Fast)
-
-- **Everything is misaligned:** select multiple layers and use Align tools.
-- **Text is hard to read:** add contrast (darker overlay / lighter text).
-- **Images look warped:** check constraints and use proper scaling (don’t drag corners without holding Shift unless intended).
-- **You lost layers:** rename key layers (Header, Body, Icons, Buttons).
+## Extensions (for fast finishers)
+- Add an icon row with Auto Layout
+- Add a subtle background shape or gradient panel behind the hero section
+- Add a Smart Animate transition for page navigation
 
 ---
 
-### What's Next?
-
-Once your About Me page is complete, the final step is learning how to **share your finished Figma design**, so others can view and interact with it.
-
-
+[NEXT STEP: Sharing Your Figma Design](share-design.html){: .btn .btn-blue }
