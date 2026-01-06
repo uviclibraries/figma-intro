@@ -62,10 +62,10 @@ In **Prototype** tab:
 - Test in Present mode
 
 ## Checkpoint (you’re done when)
-- [ ] Text is readable and aligned
-- [ ] Spacing is consistent across sections
-- [ ] Header looks like the same “site” as your other pages
-- [ ] At least **one prototype link** navigates correctly
+- Text is readable and aligned
+- Spacing is consistent across sections
+- Header looks like the same “site” as your other pages
+- At least **one prototype link** navigates correctly
 
 ## Peer review (2 minutes)
 Swap with a partner (or self-check brutally):
