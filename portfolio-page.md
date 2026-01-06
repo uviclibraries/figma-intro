@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5-Portfolio Page - Components & Grid
-nav_order: 6
+nav_order: 8
 parent: Workshop Activities
 ---
 
