@@ -176,4 +176,4 @@ Now that the home page is complete, the next step is designing the **Portfolio P
 </script>
 
 
-[NEXT STEP: Designing the Portfolio Page](portfolio-page.html){: .btn .btn-blue }  
+[NEXT STEP: Designing the Portfolio Page](portfolio-page.html)
