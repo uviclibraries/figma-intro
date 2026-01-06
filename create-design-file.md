@@ -28,7 +28,7 @@ Before you begin, take a look at the **final result** you’ll be working toward
 6. Right now, your file doesn’t have a name. Click on **"Untitled"** in the top left corner, type **"Figma Intro Workshop"**, and press **Enter** to save this as the filename.
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
+  <div id="gif1" style="display:none;">
     <img src="images/create-design.gif">
     </div>
     
@@ -45,7 +45,7 @@ By default, Figma has a near-white canvas background. Let’s change that.
 
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
-    <div id="gif2">
+   <div id="gif1" style="display:none;">
     <img src="images/background.gif">
     </div>
     
