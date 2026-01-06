@@ -8,48 +8,36 @@ parent: Workshop Activities
 # Hands-On Activities Introduction
 
 {: .note }
-If you're attending a live workshop, you can skip this page and continue to the next step.
+If you’re attending a live workshop, you can skim this page and move on. If you’re self-paced, read it once and then start building.
 
-If you're doing this **self-paced**, take 3–5 minutes to complete these quick setup items before starting the activities.
+## What we’re building
+You’ll build a simple **portfolio website UI** with:
+- Home page (header + hero)
+- Portfolio page (project cards)
+- About Me page (challenge)
+Then you’ll make it **clickable** with prototypes.
 
----
+## Rules (so this workshop actually works)
+- Presentation is **15 minutes max**.
+- After that, you will be building the whole time.
+- Every section includes a **variation task** so you’re not just copying.
 
-## 1) Review the Intro Slides (3–5 min)
-
-These slides explain the big idea behind UI design and why we’re using Figma.
-
-- Read the [Introductory Slides](resources/figma-intro-slides.pdf){:target="_blank"}
-
-{: .important }
-Some older slide examples may reference a specific persona/story. Ignore that. Your workshop build is a **generic academic portfolio prototype**.
-
----
-
-## 2) Resize Your Laptop Screen (2 min)
-
-This helps you follow along with handouts and keep Figma visible while working.
-
-<div style="max-width: 720px; margin: 12px 0;">
-  <iframe width="100%" height="405" src="https://www.youtube.com/embed/Igk5hZUfzN0"
-    title="Resize Your Laptop Screen for Workshop Handouts"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-
-If the video doesn’t load, open it directly:
-- https://www.youtube.com/watch?v=Igk5hZUfzN0
-
----
-
-## 3) Quick Readiness Check (30 seconds)
-
-Before you proceed, make sure:
-- You’re logged into Figma in your browser
+## Your success checklist
+Before you start, confirm:
+- You’re logged into Figma
 - You can create/open a file
-- You can see the **Layers panel (left)** and **Properties panel (right)**
+- You can see the **Layers** panel (left) and **Properties** panel (right)
+
+## Keyboard shortcuts you’ll use (minimum viable)
+| Action | Shortcut |
+|---|---|
+| Frame | **F** |
+| Text | **T** |
+| Rectangle | **R** |
+| Auto Layout | **Shift + A** |
+| Duplicate | **Cmd/Ctrl + D** |
+| Zoom to Fit | **Shift + 0** |
 
 ---
 
-[NEXT STEP: Create a Design File](create-design-file.html){: .btn .btn-blue }
+[NEXT STEP: Scavenger Hunt](scavenger-hunt.html){: .btn .btn-blue }
