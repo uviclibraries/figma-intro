@@ -8,7 +8,7 @@ parent: Workshop Activities
 ### Section Preview
 We have a header, but our page is empty. We are going to design the "Hero" section—the first thing people see. We will build a **Responsive Button** that expands automatically when you change the text.
 
-<img src="images/home-final.png" style="width:60%;">
+<img src="images/home-final.jpg" style="width:60%;" alt="Home page target outcome">
 
 ---
 
@@ -33,7 +33,7 @@ We have a header, but our page is empty. We are going to design the "Hero" secti
     ```
 3.  **Style:** Noto Serif JP, Size 24, Regular, White, Center.
 4.  **Align:** Select both text layers and click **Align Horizontal Centers** (at the top of the Right Sidebar).
-<img src="images/text-hero.png" style="width:50%;">
+<img src="images/headline-text.png" style="width:60%;" alt="Headline placement reference">
 
 ---
 
@@ -59,7 +59,7 @@ We have a header, but our page is empty. We are going to design the "Hero" secti
 2.  Type *"Check out my amazing portfolio"*
 3.  *Watch the button stretch automatically.*
 4.  Change it back to **"View My Work"**.
-<img src="images/button-demo.gif">
+<img src="images/button-home.gif" style="width:100%; max-width:900px;" alt="Button build demo">
 
 ---
 
