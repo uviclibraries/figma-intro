@@ -40,4 +40,4 @@ Before you start, confirm:
 
 ---
 
-[NEXT STEP: Scavenger Hunt](scavenger-hunt.html){: .btn .btn-blue }
+[NEXT STEP: Scavenger Hunt](scavenger-hunt.html)
