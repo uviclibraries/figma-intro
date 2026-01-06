@@ -60,4 +60,4 @@ Want to save your design as an image or PDF? Here’s how:
 
 Now that you know how to **share and present your design**, the next step is **earning your Workshop Badge**, a recognition of your completion and skills in Figma!  
 
-[NEXT STEP: Earning Your Workshop Badge](informal-credentials.html){: .btn .btn-blue }   
+[NEXT STEP: Earning Your Workshop Badge](informal-credentials.html)
