@@ -80,4 +80,4 @@ Now that our canvas is ready, we need to build the navigation.
 </script>
 
 
-[NEXT STEP: Building the Header](building-header.html){: .btn .btn-blue }   
+[NEXT STEP: Building the Header](building-header.html)
