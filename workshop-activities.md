@@ -10,6 +10,18 @@ has_toc: true
 
 This workshop is designed to be **mostly hands-on**. The “presentation” is capped at **15 minutes**. The rest is you building.
 
+<div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap; margin: 14px 0 18px 0;">
+  <div style="flex:2; min-width:280px;">
+    <div class="note">
+      <p><strong>Workshop rule:</strong> presentation is capped at <strong>15 minutes</strong>. The rest is hands-on.</p>
+      <p>We repeat: <strong>Demo (90s) → Build (6–8m) → Variation (2m) → Checkpoint</strong>.</p>
+    </div>
+  </div>
+  <div style="flex:1; min-width:240px; text-align:right;">
+    <img src="images/hero/illust-coworkers.png" alt="Collaboration illustration" style="max-width:340px; width:100%; height:auto;">
+  </div>
+</div>
+
 ## Workshop Format (how we run this)
 We repeat a simple training loop:
 
