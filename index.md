@@ -90,4 +90,4 @@ Unlike Canva (which is for images) or PowerPoint (which is for slides), Figma is
 
 [Get Started: Create Your File 👉](create-design-file)
 
-[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
+[NEXT STEP: Pre-Workshop Activities](pre-workshop.html)
