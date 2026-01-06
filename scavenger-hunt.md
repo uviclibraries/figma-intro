@@ -17,12 +17,12 @@ In **5 minutes**, prove you can do the basic moves in Figma without hand-holding
 Open your workshop file (or create a new Design File). Complete every task below.
 
 ### Task List (do all of them)
-- [ ] **Create a Frame** (press **F**) and pick a Desktop preset (or draw one). Rename it **Home**.
-- [ ] Add a **Rectangle** (press **R**), change its fill color, and rename it **Hero BG**.
-- [ ] Add **Text** (press **T**) that says `Hello Figma`. Change font size. Rename it **Headline**.
-- [ ] Select two layers and **Align** them (left/center). (Any alignment, just do it on purpose.)
-- [ ] Select 2–3 elements and press **Shift + A** to apply **Auto Layout** (yes, even if it looks ugly).
-- [ ] Switch to **Prototype** tab and create **one link**: click → navigate to another frame (duplicate Home if needed).
+- **Create a Frame** (press **F**) and pick a Desktop preset (or draw one). Rename it **Home**.
+- Add a **Rectangle** (press **R**), change its fill color, and rename it **Hero BG**.
+- Add **Text** (press **T**) that says `Hello Figma`. Change font size. Rename it **Headline**.
+- Select two layers and **Align** them (left/center). (Any alignment, just do it on purpose.)
+- Select 2–3 elements and press **Shift + A** to apply **Auto Layout** (yes, even if it looks ugly).
+- Switch to **Prototype** tab and create **one link**: click → navigate to another frame (duplicate Home if needed).
 
 ## Checkpoint (you’re done when)
 - Your Layers panel has **meaningful names** (not Rectangle 91).
@@ -36,4 +36,4 @@ Open your workshop file (or create a new Design File). Complete every task below
 
 ---
 
-[NEXT STEP: Create a Design File](create-design-file.html){: .btn .btn-blue }
+[NEXT STEP: Create a Design File](create-design-file.html)
