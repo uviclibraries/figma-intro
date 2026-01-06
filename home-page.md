@@ -79,7 +79,8 @@ With the text selected, go to the **Right Sidebar** under **Typography** and set
 - **Text Case:** Uppercase  
 
    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
+  <div id="gif1" style="display:none;">
+
     <img src="images/text-home.gif">
     </div>
 
