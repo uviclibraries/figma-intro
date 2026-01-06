@@ -80,4 +80,4 @@ Swap with a partner (or self-check brutally):
 
 ---
 
-[NEXT STEP: Sharing Your Figma Design](share-design.html){: .btn .btn-blue }
+[NEXT STEP: Sharing Your Figma Design](share-design.html)
