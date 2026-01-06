@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4-Designing the Hero (The Magic Button)
-nav_order: 5
+nav_order: 6
 parent: Workshop Activities
 ---
 
