@@ -38,7 +38,7 @@ To separate the navigation from the portfolio content, we will add a **thin whit
     - **Length:** Match the width of your navigation.
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
+    <div id="gif1" style="display:none;">
     <img src="images/line-portfolio.gif">
     </div>
 
