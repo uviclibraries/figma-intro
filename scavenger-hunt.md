@@ -1,4 +1,9 @@
 ---
+nav_exclude: true
+search_exclude: true
+---
+
+---
 layout: default
 title: 0 - Figma Scavenger Hunt (5 minutes)
 nav_order: 2
