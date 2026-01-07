@@ -18,27 +18,26 @@ Before you begin, take a look at the **final result** you’ll be working toward
 The **Portfolio Page** showcases featured projects. To begin, we will duplicate the **Home Page** to keep our header consistent.
 
 ## Create the Portfolio Page Frame
-1. In the layers panel, select the **Home** frame.
-2. Duplicate it using **Command + D** (Mac) or **Ctrl + D** (Windows).
-3. Clear all content inside *except* the **Header**.
-4. Rename the frame to **"Portfolio"**.
-5. On the **Right Sidebar**, increase the height of the frame to **1520**.
-<img src="images/incr-height.png" style="width:50%;">
+1. In the layers panel, select the **Home** frame and duplicate it using Command + D on Mac or Control + D on Windows.
+2. Clear all its content asides from the Header
+3. Double-click on the frame name (new one should be named the same as the one you duplicated it from) and rename it to **"Portfolio"** 
+4. On the **Right Sidebar**, increase the height of the frame to 1520 to allow more content to fit onto the Portfolio frame.<br>
+<img src="images/incr-height.png" style="width:50%;">  
 
-## Adding a Divider Line
+## Adding a Divider Line  
 
-To separate the navigation from the portfolio content, we will add a **thin white line**.
+To separate the navigation from the portfolio content, we will add a **thin white line** below the header.  
 
-1. Select the **Portfolio Frame**.
-2. Press **L** (Line Tool).
-3. Draw a horizontal line under the header.
-4. In the **Right Sidebar**, adjust properties:
-    - **Color:** White (#FFFFFF)
-    - **Stroke Weight:** 1px
-    - **Length:** Match the width of your navigation.
+1. Select the **Portfolio Frame**.  
+2. On your keyboard, press **L** to activate the **Line Tool**, or click the **Line** icon from the bottom toolbar.  
+3. Click and **drag** to draw a horizontal line under the header.  
+4. In the **Right Sidebar**, adjust the line properties:  
+   - **Color:** White (#FFFFFF)  
+   - **Stroke Weight:** 1px  
+   - **Length:** Stretch it from the **left edge of "Home"** to the **right edge of "Contact Me"**.  
 
-    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1" style="display:none;">
+   <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
     <img src="images/line-portfolio.gif">
     </div>
 

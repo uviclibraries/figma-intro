@@ -28,8 +28,8 @@ Before you begin, take a look at the **final result** you’ll be working toward
 6. Right now, your file doesn’t have a name. Click on **"Untitled"** in the top left corner, type **"Figma Intro Workshop"**, and press **Enter** to save this as the filename.
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
-  <div id="gif1" style="display:none;">
-    <img src="images/create-design.gif">
+    <div id="gif1">
+    <img src="images/FigmaUntitledDesign.gif">
     </div>
     
 ## 2. Setting the Page Background Color  

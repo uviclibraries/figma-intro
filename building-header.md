@@ -13,82 +13,103 @@ Before we begin, look at what we are building. A header isn't just text floating
 
 ---
 
-# Building the Header (The Right Way)
+# Building the Header  
 
-> **💡 Figma Mindset:** In other tools, you group things. In Figma, we **Frame** things. A Frame is like a smart container that keeps your design organized and allows you to add background colors easily.
+>**💡 Hint:** If you need to zoom in while working in Figma, use **Command +** (for Mac) or **Ctrl +** (for Windows). And to zoom out use **Command -** (for Mac) or **Ctrl -** (for Windows). This makes it easy to navigate and focus on details in your design!
 
-## 1. Create the Header Container
-Instead of typing text directly on the blank page, we will first create the "strip" that holds our header.
+## 1. Creating the Logo  
 
-1.  Press **F** on your keyboard (Frame tool).
-2.  Draw a wide rectangle at the top of your **"Home"** frame.
-3.  In the **Right Sidebar**, set the size manually to ensure it fits perfectly:
-    * **W (Width):** 1440
-    * **H (Height):** 100
-4.  Rename this frame **"Header Container"** in the Layers Panel.
+The logo will be a **text-based brand name** positioned at the center of the header. Follow these steps:  
 
-## 2. The Logo
-Now, place your brand inside this new container.
+1. Select the **"Home" Frame** in the **Layers Panel** to ensure you are working within the correct space.  
+2. On your keyboard, press **T** to activate the **Text Tool**, or click the **Text** icon in the bottom toolbar.  
+<img src="images/text-icon.png" style="width:100%;">  
+3. Click anywhere near the **top center** of the frame and type: **"Evelyne"** (or customize by using your own first name).  
+4. In the **Layers Panel**, click on the new text layer to ensure it's fully selected.  
+5. In the **Right Sidebar**, set the following properties:  
+   - **Font Family:** Redressed  
+   - **Font Size:** 36  
+   - **Text Alignment:** Center
+   - Make sure the colour is selected to white FFFFF
+<img src="images/logo-typography.png" style="width:300px">  
 
-1.  Select your new **"Header Container"**.
-2.  Press **T** (Text) and click inside the center of the container.
-3.  Type: **"Evelyne"** (or your name).
-4.  **Style it:**
-    * **Font:** Redressed
-    * **Size:** 36
-    * **Align:** Center
-    * **Color:** Dark Grey or Black (#333333)
-5.  **Perfect Centering:** Don't drag it! With the text selected, look at the very top of the Right Sidebar and click **Align Horizontal Centers** and **Align Vertical Centers** (the icons look like centered lines).
-    * *Now your logo is mathematically perfect.*
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/create-logo1.gif">
+    </div>
 
-<img src="images/logo-typography.png" style="width:300px">
+6. Click and **drag the text** to the center of the frame.  
+   - To make sure it’s perfectly centered, look for the **alignment guides** (red lines).  
+   - Position it **close to the top of the frame** but **leave enough space** for a balanced layout.  
+<img src="images/center-alignment-guides.png" style="width:100%;">  
 
-## 3. The Navigation Links (Auto Layout)
-We want our menu links to stay evenly spaced, even if we change the words later. We use **Auto Layout** for this.
+## 2. Adding the Left-Side Navigation  
 
-1.  Press **T** and type **"Home"**.
-2.  **Style it:** Noto Serif JP, Size 16.
-3.  Duplicate this text twice (Ctrl+D or Cmd+D) to create **"About Me"** and **"Portfolio"**.
-4.  **The Magic Step:**
-    * Select all three text layers (Hold Shift + Click).
-    * Press **Shift + A** (or right-click > Add Auto Layout).
-    * *Boom! They are now locked in a smart row.*
-5.  **Adjust Spacing:**
-    * With the new Auto Layout frame selected, go to the Right Sidebar.
-    * Find the **Gap between items** box (it looks like horizontal lines) and type **50**.
-6.  Drag this menu to the **left side** of your Header Container.
+Next, we’ll add text links on the left side of the header.  
 
-<img src="images/spacing-73.png" style="width:300px">
+1. On your keyboard, press **T** to activate the **Text Tool**, or click the **Text** icon in the bottom toolbar.  
+2. Click on any spot close to the top left of the frame and type **"Home"**  
+3. In the **Layers Panel**, ensure the text layer is selected.  
+4. In the **Right Sidebar**, set the following properties:  
+   - **Font Family:** Noto Serif JP  
+   - **Font Size:** 16  
+   - **Font Style:** Regular *(this is selected via the dropdown to the left of the font size input)*  
+   - **Text Alignment:** Left  
+<img src="images/notoserif.png" style="width:300px">  
+5. Repeat the  steps to create two more text layers for **"About Me"** and **"Portfolio"**.  
+6. Drag and position the **text layers** side by side in a horizontal row.  
+7. Hold down the **Shift key** and click on each of the three text layers (**Home**, **About Me**, and **Portfolio**) to select them all.  
+8. Release the **Shift key** while keeping the text layers selected. **Right-click** on the selection and choose **Add Auto Layout** from the list (Shortcut: Press **Shift + A**).  
+   - The text items should now be evenly spaced horizontally.  
+   - In the **Layers Panel**, you’ll see that Figma has placed them inside a new **Auto Layout frame**.  
+   - Auto Layout automatically organizes elements within a frame, making it easier to adjust spacing and maintain alignment dynamically. 
+9. In the **Layers Panel**, select your newly created **Auto Layout frame**. Then, in the **Right Sidebar**, under **Auto layout**, change the value of the horizontal spacing to **73** to ensure enough spacing between the navigation links.  
+<img src="images/spacing-73.png" style="width:300px">  
 
-<button onclick="toggle('gif2')">Show/Hide Animation</button>
-<div id="gif1" style="display:none;">
-<img src="images/nav2.9.gif">
-</div>
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src="images/nav2.9.gif">
+    </div>
 
-## 4. The "Contact" Link
-1.  Press **T** and type **"Contact Me"**.
-2.  **Style it:** Same font as before (Noto Serif JP, 16).
-3.  **Add the Underline:**
-    * Click the **3 dots (...)** in the Text section of the sidebar.
-    * Select the **Underline** icon (Concept: Decoration).
-4.  Move this to the **far right** of your Header Container.
+## 3. Adding the "Contact Me" Link  
 
-<img src="images/contact-me.gif">
+Now that the navigation links are properly aligned and spaced, we'll move on to designing the **"Contact Me"** link.
 
-## 5. Final Alignment & Constraints
-This is the step that separates beginners from pros. We ensure everything is lined up perfectly.
+1. On your keyboard, press **T** to create a new text layer and type: **"Contact Me"**  
 
-1.  **Select everything:** Hold Shift and click your **Logo**, your **Left Nav Group**, and your **Contact Link**.
-2.  **Align Vertical Centers:** Click the alignment tool at the top of the sidebar (icon: vertical blocks skewered by a line).
-    * *Now all your text is on the exact same invisible line.*
-3.  **Pin it (Optional Master Move):**
-    * Select your **Left Nav**. In the "Constraints" section of the sidebar, set it to **Left** and **Center**.
-    * Select your **Contact Link**. Set it to **Right** and **Center**.
-    * *Now, if you stretch the header, the links stay stuck to the edges!*
+2. In the **Right Sidebar**, set the following properties:  
+   - **Font Family:** Noto Serif JP  
+   - **Font Size:** 16  
+   - **Font Style:** Regular  
+   - **Text Alignment:** Right  
 
-<img src="images/group-selection.png" style="width:100%">
+3. To add an **underline**, follow these steps:  
+   - In the **Right Sidebar**, click on **Type settings** (it should have the icon as shown below).  
+<img src="images/type-settings-icon.png" style="width:300px">  
+   - Click on the Underline icon to apply it.  
+<img src="images/underline-icon.png" style="width:300px">  
 
-<script>
+4. Drag the **"Contact Me"** text to the **top right** corner of the header.  
+
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/contact-me.gif">
+    </div>
+
+## 4. Aligning and Grouping the Header Elements  
+
+Now that all elements are in place, let's make sure they are perfectly aligned and grouped together.  
+
+1. Click and drag around each of the elements to adjust them until everything is properly centered and spaced.  
+2. Now select all elements inside the **Home Frame** by clicking and dragging over them. Then, **right-click** on the selection and choose **Group Selection** from the menu. This will combine all elements into a single group, making it easier to move and manage them as one unit. 
+<img src="images/group-selection.png
+" style="width:100%">  
+3. In the **Layers Panel**, rename the group to **"Header"** for better organization.  
+
+Now that the header is complete, let’s move on to **designing the rest of the home page**, including images, and buttons.  
+
+<script>  
+
     function toggle(input) {
         var x = document.getElementById(input);
         if (x.style.display === "none") {
