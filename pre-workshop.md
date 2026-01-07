@@ -7,6 +7,9 @@ nav_order: 2
 
 Before we start building your website design in Figma, there are a few setup steps to complete to ensure you're ready for the hands-on activities.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cx2dkpBxst8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+NEXT STEP: Create a Design File{: .btn .btn-blue }
+
 1.  **Create a Figma Account**  
 If you don't have a Figma account yet, go to [figma.com](https://www.figma.com){:target="_blank"} and sign up for a **free account**.  
 Once your account is created, you can use **Figma in your browser** or download the **Figma desktop app**.
