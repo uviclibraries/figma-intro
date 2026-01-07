@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Additional Resources
-nav_order: 10
+nav_order: 5
 ---
 # Additional Resources & Acknowledgements
 
