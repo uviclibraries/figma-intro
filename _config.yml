@@ -1,12 +1,15 @@
 title: Figma Introduction
 remote_theme: pmarsceill/just-the-docs
 
+# GitHub Pages project site base path
+baseurl: "/figma-intro"
+
 # "Edit this page on GitHub" link
 gh_edit_repository: "https://github.com/chiragvijaykumar/figma-intro"
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_branch: "master"   # change to "main" if your default branch is main
-gh_edit_view_mode: "tree"  # "tree" or "edit"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
 
 # License info (used across workshop)
 license_name: "Creative Commons Attribution 4.0 International License"
