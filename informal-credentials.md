@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Earn a Workshop Badge
-nav_order: 9
+nav_order: 4
 ---
 <img src="images\figma-logo.png" alt="tableau logo" style="float:right;width:250px;"> 
 
