@@ -7,9 +7,9 @@ nav_order: 1
 
 # Build a Website UI with Figma
 
-- **Pre-workshop activities**: 10 mins  
-- **Introductory presentation**: 10 mins  
-- **Hands-on activities**: 60 mins  
+- **Pre-workshop activities**
+- **Introductory presentation**
+- **Hands-on activities**
 
 ## What is Figma?
 
