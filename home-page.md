@@ -62,7 +62,7 @@ Now, we will add the main **headline text** to the home page and style it to mat
 3. Click inside the **Home Frame** and type the following text:  
 
 ```
-HI, I’M EVELYNE
+HI, I’M (Your Name)
 YOUR FASHION COMPASS
 ```
 
