@@ -1,4 +1,10 @@
 ---
+nav_exclude: true
+search_exclude: true
+---
+
+
+---
 layout: default
 title: 4-Designing the Main (The Magic Button)
 nav_order: 6
