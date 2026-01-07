@@ -144,7 +144,7 @@ To finish, we add a simple copyright.
 1. **Line:** Draw a horizontal line (**L**) at the bottom (White, 1px).
 2. **Text:** Press **T** and type:
     ```
-    © Copyright 2026 - Evelyne Stark
+    © Copyright 2026 - (Your Name)
     ```
 3. **Style:** Noto Serif JP, 16, Center, White.
 <img src="images/copyright.png" style="width:100%;">
