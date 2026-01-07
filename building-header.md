@@ -5,11 +5,11 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-### Section Preview  
+### Section Preview
 
-Before you begin, take a look at the **final result** you’ll be working towards in this section:  
+Before we begin, look at what we are building. A header isn't just text floating in space—it is a **container** that holds navigation.
 
-<img src="images/header-final.png" style="width:60%;">  
+<img src="images/header-final.png" style="width:60%;">
 
 ---
 
@@ -120,4 +120,5 @@ Now that the header is complete, let’s move on to **designing the rest of the 
     }
 </script>
 
-[NEXT STEP: Designing the Home Page](home-page.html){: .btn .btn-blue }  
+[NEXT STEP: Designing the Home Page](home-page.html)
+

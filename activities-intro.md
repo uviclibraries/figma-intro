@@ -4,14 +4,35 @@ title: Activities Introduction
 nav_order: 1
 parent: Workshop Activities
 ---
+
 # Hands-On Activities Introduction
 
-Please review the following if you are working through the workshop materials without attending a live event:
+{: .note }
+If you’re attending a live workshop, you can skim this page and move on. If you’re self-paced, read it once and then start building.
 
-- Read the [Introductory Slides](https://uviclibraries.github.io/figma-intro/resources/figma-intro-slides.pdf){:target="_blank"} 
+## What we’re building
+You’ll build a simple **portfolio website UI** with:
+- Home page (header + hero)
+- Portfolio page (project cards)
+- About Me page (challenge)
+Then you’ll make it **clickable** with prototypes.
 
-- Resize Your Laptop Screen for Workshop Handouts (2 min)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Your checklist
+Before you start, confirm:
+- You’re logged into Figma
+- You can create/open a file
+- You can see the **Layers** panel (left) and **Properties** panel (right)
 
+## Keyboard shortcuts you’ll use (minimum viable)
+| Action | Shortcut |
+|---|---|
+| Frame | **F** |
+| Text | **T** |
+| Rectangle | **R** |
+| Auto Layout | **Shift + A** |
+| Duplicate | **Cmd/Ctrl + D** |
+| Zoom to Fit | **Shift + 0** |
 
-[NEXT STEP: Create a Design File](create-design-file.html){: .btn .btn-blue }
+---
+
+[NEXT STEP: Scavenger Hunt](scavenger-hunt.html)

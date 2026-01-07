@@ -62,7 +62,7 @@ Now, we will add the main **headline text** to the home page and style it to mat
 3. Click inside the **Home Frame** and type the following text:  
 
 ```
-HI, I’M EVELYNE
+HI, I’M (Your Name)
 YOUR FASHION COMPASS
 ```
 
@@ -79,7 +79,8 @@ With the text selected, go to the **Right Sidebar** under **Typography** and set
 - **Text Case:** Uppercase  
 
    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
+  <div id="gif1" style="display:none;">
+
     <img src="images/text-home.gif">
     </div>
 
@@ -176,4 +177,4 @@ Now that the home page is complete, the next step is designing the **Portfolio P
 </script>
 
 
-[NEXT STEP: Designing the Portfolio Page](portfolio-page.html){: .btn .btn-blue }  
+[NEXT STEP: Designing the Portfolio Page](portfolio-page.html)
