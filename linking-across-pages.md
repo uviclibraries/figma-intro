@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 6-Prototyping & Interactions
-nav_order: 9
+title: 6-Adding Page Transitions with Smart Animate
+nav_order: 7
 parent: Workshop Activities
 ---
 
