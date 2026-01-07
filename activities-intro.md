@@ -17,12 +17,7 @@ You’ll build a simple **portfolio website UI** with:
 - About Me page (challenge)
 Then you’ll make it **clickable** with prototypes.
 
-## Rules (so this workshop actually works)
-- Presentation is **15 minutes max**.
-- After that, you will be building the whole time.
-- Every section includes a **variation task** so you’re not just copying.
-
-## Your success checklist
+## Your checklist
 Before you start, confirm:
 - You’re logged into Figma
 - You can create/open a file
