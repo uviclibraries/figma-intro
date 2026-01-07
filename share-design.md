@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 8-Sharing Your Figma Design
-nav_order: 11
+nav_order: 9
 parent: Workshop Activities
 ---
 
