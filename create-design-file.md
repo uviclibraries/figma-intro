@@ -45,7 +45,7 @@ By default, Figma has a near-white canvas background. Let’s change that.
 
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
-    <div id="gif2">
+   <div id="gif1" style="display:none;">
     <img src="images/background.gif">
     </div>
     
@@ -63,4 +63,4 @@ In the next step, we will learn about **Frames** and how to structure our design
         }
     }
 </script>
-[NEXT STEP: Working with Frames](desktop-frame.html){: .btn .btn-blue }  
+[NEXT STEP: Working with Frames](desktop-frame.html)

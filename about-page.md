@@ -1,33 +1,83 @@
 ---
 layout: default
-title: 7-Challenge - Design the About Me Page
+title: "7 - Challenge: Design the About Me Page"
 nav_order: 8
-parent: Workshop Activities
+parent: "Workshop Activities"
 ---
 
-# Challenge: Design the About Me Page  
+# Challenge: Design the About Me Page (15 minutes)
 
-Now that you've learned how to structure and animate pages, it’s time for a **challenge!** Your task is to **recreate the About Me Page** using the design principles covered in this workshop.  
+This is where you stop following instructions and start making decisions like a designer.
 
-## What the Final Design Should Look Like  
+## Timebox
+You get **15 minutes**:
+- 2 min: plan layout
+- 10 min: build
+- 3 min: prototype + cleanup
 
-Before you begin, take a look at the **final product** you will be working towards:  
+## Goal
+Recreate an About Me page that matches your design system:
+- Same header/nav style as your other pages
+- Clear typography hierarchy
+- Balanced layout (not a wall of text)
 
-<img src="images/about-final.jpg" style="width:80%;" alt="Final About Me Page Design">   
+## Required sections (must include all)
+1) **Header**
+- Reuse your header style (logo/title + nav links)
 
-## Download the Required Images  
+2) **Hero / Intro**
+- A profile image (or placeholder shape)
+- Name/title line
+- Short bio paragraph (3–5 lines)
 
-To help you with this challenge, all the icons and images required are already provided in the assets you downloaded in step 2 of the **Pre-Workshop Activities**
+3) **Skills / Focus Area**
+- 3–6 items (icons optional)
+- Use consistent spacing and alignment
 
-## Tips for Structuring the Design  
+4) **Call to Action**
+- A button (Contact / View Work / Download CV)
+- Make it visually obvious
 
-- **Use Groups & Auto Layouts**: Keeping your design structured will make adjustments easier.  
-- **Ensure Proper Alignment**: Pay attention to how text and images are positioned.  
-- **Typography & Spacing**: Maintain clean spacing and use appropriate fonts to enhance readability.  
-- **Experiment with Creativity**: This is your chance to make the page unique while following the layout structure.  
+## Build plan (do this in order)
+### Step 1: Duplicate a page to reuse structure
+Duplicate your Home or Portfolio frame and rename it **About Me**.
+This keeps the header consistent and saves time.
 
-### What's Next?  
+### Step 2: Block layout first (no details)
+Draw 3 large rectangles as layout placeholders:
+- Hero block
+- Skills block
+- CTA block
+Then replace rectangles with real content.
 
-Once you’ve completed your **About Me Page**, the final step is learning **how to share your finished design with others**, so they can view and interact with your work.  
+### Step 3: Add content + spacing rules
+- Align everything to a consistent left margin
+- Use spacing increments (e.g., 16 / 24 / 32)
+- Rename your key layers (Header / Hero / Skills / CTA)
 
-[NEXT STEP: Sharing Your Figma Design](share-design.html){: .btn .btn-blue }  
+### Step 4: Prototype the nav
+In **Prototype** tab:
+- Link **About Me** in your header to this frame
+- Link **Home** back to Home frame
+- Test in Present mode
+
+## Checkpoint (you’re done when)
+- Text is readable and aligned
+- Spacing is consistent across sections
+- Header looks like the same “site” as your other pages
+- At least **one prototype link** navigates correctly
+
+## Peer review (2 minutes)
+Swap with a partner (or self-check brutally):
+- What’s the first thing your eye sees? (Should be the headline, not random clutter)
+- Is there any “almost aligned” spacing? Fix it.
+- Do sections feel grouped? If not, add spacing or dividers.
+
+## Extensions (for fast finishers)
+- Add an icon row with Auto Layout
+- Add a subtle background shape or gradient panel behind the hero section
+- Add a Smart Animate transition for page navigation
+
+---
+
+[NEXT STEP: Sharing Your Figma Design](share-design.html)

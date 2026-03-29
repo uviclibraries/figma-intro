@@ -5,49 +5,75 @@ nav_order: 7
 parent: Workshop Activities
 ---
 
-# Linking Pages with Smart Animate  
+### Section Preview
 
-Linking pages in Figma allows you to create a **clickable prototype** that simulates user flow, helping you visualize and test your design before final development. Adding **Smart Animate** transitions enhances this experience by animating elements between frames, giving your prototype a polished, professional feel.  
+This is where your design stops being a picture and starts behaving like a real UI.
+We will switch to **Prototype mode** and use **Smart Animate** so transitions look smooth instead of cheap.
 
+<div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start;">
+  <img src="images/prototype-mode.png" style="width:48%; min-width:260px; border:1px solid #e5e7eb; border-radius:10px;" alt="Prototype tab location">
+  <img src="images/smart-animate.png" style="width:48%; min-width:260px; border:1px solid #e5e7eb; border-radius:10px;" alt="Smart Animate option">
+</div>
 
-## 1. Linking the "Portfolio” in header 
+---
 
-1. In the **Layers Panel**, find and select the **Home Frame**.  
-2. Switch to **Prototype Mode** by clicking the **Prototype** tab in top of the right sidebar.  
-<img src="images/prototype-mode.png" style="width:300px">
-3. On the **Home Frame**, locate the **Portfolio** text in your header navigation.  
-4. Now head over to the right sidebar, under "Interactions", click the minus button beside the current "Click" interaction. This removes it so we can add a new one ourselves  
-<img src="images/minus-click.png" style="width:300px">
-5. Now click the plus button, and on the panel that appears, select the following options:  
-   - **Trigger**: On Click  
-   - **Action**: Navigate To  
-   - **Destination**: Portfolio  
-   - **Animation**: Smart animate  
-   - **Curve**: Ease out 
-   - **Duration**: 300ms<br>
-<img src="images/smart-animate.png" style="width:300px">  
+# Prototyping: Making it Clickable
 
-## 2. Linking the "My Portfolio" button  
+> **Mode switch:** On the right sidebar, click the **Prototype** tab.
 
-1. Still on the **Home Frame**, select the **"My Portfolio"** button.  
-2. Now repeat the steps in the earlier section to add a **Smart animate** interaction
+## 1) Connect “Home” (from Portfolio → Home)
 
+1. Go to your **Portfolio** frame.
+2. Click the **Home** text in the header (select the text layer).
+3. In **Prototype** mode, drag the small connector (the little circle) to the **Home** frame.
+4. Set:
+   - **On Click**
+   - **Navigate to:** Home
+   - **Animation:** **Smart Animate**
+   - **Duration:** 300ms
 
-## 3. Creating a Link Back to the Home Page  
+<img src="images/smart-animate.png" style="width:70%; max-width:820px; border:1px solid #e5e7eb; border-radius:10px;" alt="Smart Animate setting">
 
-1. Switch to the **Portfolio Frame** in the **Layers Panel**.  
-2. Now repeat the steps in the earlier section to add a **Smart animate** interaction. Here, the Destination should now be the Home Frame instead of Portfolio since we want to be taken to the Home frame whenever we click this
+## 2) Connect “Portfolio” (from Home → Portfolio)
 
+1. Go to your **Home** frame.
+2. Select the **Portfolio** text in the header.
+3. Drag the connector to the **Portfolio** frame.
+4. Use the same settings:
+   - **On Click**
+   - **Navigate to:** Portfolio
+   - **Smart Animate**
+   - 300ms
 
-## 4. Testing Your Prototype  
+## 3) Connect the main button (Home → Portfolio)
 
-1. Click the **Present** button (▶) in the top-right corner of Figma.  
-2. Navigate through the links by clicking on the buttons we just added prototype behaviors to.  
-3. Observe the **Smart Animate** transitions and confirm the navigation flow feels smooth.  
+1. On the **Home** frame, select your **My Portfolio** button (the whole group/frame).
+2. Drag the connector to the **Portfolio** frame.
+3. Again:
+   - **On Click**
+   - **Navigate to:** Portfolio
+   - **Smart Animate**
+   - 300ms
 
-> **Note:** When you launch the prototype, it will open in a new window. You might need to resize it to fit your full screen for the best viewing experience — or click the **fullscreen icon** in the top-right corner of the prototype window.
+---
 
+# Present Mode (the test)
 
-Now that your pages are linked with smooth **Smart Animate transitions**, the next step is designing the **About Me Page**, where we will introduce Evelyne with structured sections and interactive elements.  
+1. Select your **Home** frame.
+2. Click the **Play (Present)** button (top right).
+3. Click around:
+   - Header links
+   - Button
+4. Watch for this: the header should feel consistent and transitions should be smooth (Smart Animate doing its job).
 
-[NEXT STEP: Designing the About Me Page](about-page.html){: .btn .btn-blue }  
+---
+
+# Workshop Complete
+
+You now have:
+- Frames for structure
+- Auto Layout for clean spacing
+- Components for repeatable content
+- A clickable prototype with Smart Animate
+
+[NEXT STEP: Designing the About Me Page](about-page.html){: .btn .btn-blue }
