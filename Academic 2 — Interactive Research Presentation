@@ -1,0 +1,315 @@
+---
+layout: default
+title: Academic 2 - Interactive Research Presentation
+nav_order: 11
+parent: Workshop Activities
+---
+
+# Design an Interactive Research Presentation
+
+### Section Preview
+
+Before you begin, here is what you'll be building — a clickable multi-screen research presentation where viewers navigate between sections, zoom into figures, and explore your findings interactively:
+
+![Final Interactive Presentation Design](images/academic-presentation-final.png)
+
+---
+
+## Why Figma for academic presentations?
+
+PowerPoint gives you slides. Figma gives you an **experience**. With Figma's prototype features you can build a presentation where:
+
+* Clicking a research question jumps directly to that finding
+* Clicking a figure zooms it in full screen
+* Hovering over a term shows a tooltip definition
+* A navigation bar lets the audience jump to any section at any time
+
+This is not a gimmick — it changes how an audience engages with your research. Instead of sitting through 20 linear slides, they can explore. It's especially powerful for complex multi-study papers, thesis defences, and grant presentations where the audience has different levels of familiarity with your work.
+
+---
+
+## Learning goals
+
+By the end of this activity, you will be able to:
+
+* Build a **multi-screen Figma prototype** with at least 5 linked screens.
+* Use **Smart Animate** to create smooth screen-to-screen transitions.
+* Design an **interactive navigation bar** that appears on every screen.
+* Create a **figure zoom interaction** — click a chart to see it full screen.
+* Build a **tooltip component** for defining key terms on hover.
+* Export a **shareable prototype link** your audience can open in any browser — no PowerPoint, no Keynote, no software required.
+
+---
+
+## 1) Plan your presentation structure
+
+Before opening Figma, sketch your 5 screens on paper. A research presentation needs:
+
+| Screen | Purpose |
+|---|---|
+| **Title screen** | Title, authors, institution, conference name |
+| **Overview screen** | Clickable map of your presentation — each section is a button |
+| **Methods screen** | Your study design, participants, measures |
+| **Results screen** | Key findings with figures |
+| **Conclusion screen** | Takeaways, limitations, next steps, contact |
+
+Write down your own content for each screen before you start building. The activity goes much faster when you're not writing and designing at the same time.
+
+---
+
+## 2) Set up your file and frame size
+
+Presentations display on widescreen monitors. We'll design for **1920 × 1080px** (full HD).
+
+1. Open Figma and create a new **Design File**. Name it `Research Presentation — [Your Name]`.
+2. Press **F** to activate the Frame tool.
+3. In the **Right Sidebar**, select the **Presentation** preset — or set a custom size:
+   * **Width:** 1920
+   * **Height:** 1080
+4. Name this frame `01 — Title` in the Layers panel.
+5. Set the background color to `#0D1B2A` (deep navy — same family as the poster for a consistent academic look).
+6. Duplicate this frame 4 times (Ctrl/Cmd + D × 4) and name them:
+   * `02 — Overview`
+   * `03 — Methods`
+   * `04 — Results`
+   * `05 — Conclusion`
+
+> **Layout tip:** Arrange all 5 frames side by side horizontally on your canvas with 80px gaps between them. This lets you see the full presentation at a glance and makes prototyping connections much easier.
+
+---
+
+## 3) Build the persistent navigation bar
+
+A navigation bar that appears on every screen is what makes this feel like a real interactive experience rather than just a slide deck.
+
+**Create the nav bar on the Title screen:**
+
+1. Press **R** and draw a rectangle at the bottom of the `01 — Title` frame:
+   * **Width:** 1920
+   * **Height:** 72
+   * **Y position:** 1008 (flush with bottom)
+   * **Fill:** `#1A3A5C`
+2. Press **T** and add 5 text labels inside the nav bar, evenly spaced:
+   * `Title` · `Overview` · `Methods` · `Results` · `Conclusion`
+   * **Font:** Inter, Size 24, Weight 500, Color `#A8C4E0`
+3. Add a thin top border to the nav bar:
+   * Select the rectangle → **Stroke** → Top only → Color `#2E86C1` → Weight 2px
+4. Select everything in the nav bar and press **Shift + A** to apply Auto Layout. Set direction to Horizontal, spacing to **Equal** (space between mode).
+5. Name this group `Nav Bar` in the Layers panel.
+
+**Copy the nav bar to all other screens:**
+
+1. Select the `Nav Bar` group.
+2. Copy it (Ctrl/Cmd + C).
+3. Click into `02 — Overview`, paste (Ctrl/Cmd + V), and position it at the same Y position (1008).
+4. Repeat for screens 03, 04, and 05.
+
+> **Pro tip:** If you later change the nav bar design, you'll need to update all 5 copies. To avoid this, consider turning the nav bar into a **Component** (Ctrl/Cmd + Alt + K) before copying — any changes to the main component will automatically update all instances.
+
+---
+
+## 4) Design the Title screen
+
+The title screen sets the tone. Keep it bold and minimal.
+
+1. Select the `01 — Title` frame.
+2. Draw a vertical accent bar on the left edge:
+   * **Width:** 12
+   * **Height:** 400
+   * **X:** 0, **Y:** 340
+   * **Fill:** `#2E86C1`
+3. Press **T** and add your presentation title:
+   * **Font:** Inter, Size 72, Weight 700, Color `#FFFFFF`
+   * **Width:** 1400 (leave right margin)
+   * Position at X: 80, Y: 360
+   * Example: `Makerspace Participation and Student Employment: A Mixed-Methods Study`
+4. Add author names below:
+   * Size 36, Weight 400, Color `#A8C4E0`
+   * Example: `Jane Smith · David Lee · Rich McCue`
+5. Add institution and conference below that:
+   * Size 28, Color `#7A9BB5`
+   * Example: `University of Victoria · ICET 2025`
+6. In the bottom-right corner, add a small text block:
+   * `Press any key or click to begin` — Size 20, Color `#7A9BB5`
+   * This signals to the audience that the presentation is interactive.
+
+---
+
+## 5) Design the Overview screen
+
+The overview screen is what makes this presentation fundamentally different from PowerPoint. It's a **clickable map** of your entire presentation.
+
+1. Select the `02 — Overview` frame.
+2. Add a screen title at the top: `Presentation overview` — Size 56, Bold, Color `#FFFFFF`, Y position 80.
+3. Create 4 large clickable section cards (one for each content screen):
+
+   For each card:
+   * Press **R** → draw a rectangle: **Width:** 380, **Height:** 240, **Corner radius:** 16
+   * Fill: `#1A3A5C`
+   * Add a top accent border: Stroke top only, `#2E86C1`, 4px
+   * Press **T** → add section number: Size 48, Bold, Color `#2E86C1`
+   * Add section name below: Size 32, Weight 500, Color `#FFFFFF`
+   * Add a one-line description: Size 20, Color `#A8C4E0`
+
+   Card content:
+   * **01 Methods** — `Study design, participants, measures`
+   * **02 Results** — `Key findings and figures`
+   * **03 Discussion** — `Interpretation and implications`
+   * **04 Conclusion** — `Takeaways and next steps`
+
+4. Arrange the 4 cards in a 2×2 grid, centered on screen. Use Auto Layout for the grid: select all 4 cards → Shift + A → set Horizontal spacing 40, then wrap into two rows.
+5. Add a subtle instruction below the grid: `Click any section to jump directly to it` — Size 20, Color `#7A9BB5`
+
+---
+
+## 6) Design the Methods screen
+
+1. Select the `03 — Methods` frame.
+2. Add a section label in the top-left: `Methods` — Size 56, Bold, Color `#2E86C1`
+3. Add a thin horizontal line below it: Color `#2E86C1`, 2px stroke, Width 400
+4. Divide the screen into two halves: Left = study design text, Right = participant diagram
+
+   **Left half — study design:**
+   * Draw a content area: X 80, Y 160, Width 800, Height 750
+   * Add your methods text in organized blocks with section sub-headers in `#2E86C1` and body text in `#D4E6F1`, Size 28, Line height 1.7
+
+   **Right half — participant breakdown:**
+   * Draw 3 stacked cards (X 960, each 840px wide, 220px tall, 20px gaps):
+   * Card 1: `Survey phase` — `n = 342 undergraduate students`
+   * Card 2: `Interview phase` — `n = 24 selected participants`
+   * Card 3: `Employment data` — `Co-op records 2021–2024`
+   * Style each card: Fill `#1A3A5C`, corner radius 12, left border accent `#2E86C1` 4px
+
+---
+
+## 7) Design the Results screen with a zoomable figure
+
+This is where Figma's prototype power really shows. We'll make a chart that zooms full screen when clicked.
+
+1. Select the `04 — Results` frame.
+2. Add the section label `Results` and divider line (same style as Methods).
+3. Add your key findings as large-number stat cards across the top (same style as the poster activity — big numbers at Size 96, descriptions at Size 24).
+4. Below the stat cards, add a **figure placeholder**:
+   * Press **R** → draw a rectangle: Width 900, Height 420, Corner radius 12
+   * Fill `#1A3A5C`
+   * Add a text label inside: `Figure 1: Co-op placement rates by makerspace engagement level` — Size 20, Color `#7A9BB5`, centered
+   * Add a small blue label in the top-right corner of the figure: `Click to enlarge` — Size 16, Color `#2E86C1`
+
+**Create the zoomed figure screen:**
+
+1. Duplicate the `04 — Results` frame and name it `04b — Figure Zoom`.
+2. On this screen, delete everything except the nav bar.
+3. Make the figure fill most of the screen: Width 1760, Height 900, centered.
+4. Add a close button in the top-right: draw a circle (48×48px, Fill `#1A3A5C`), add an X text label inside (Size 24, Color `#FFFFFF`).
+5. Add a dark semi-transparent overlay behind the figure: Full screen rectangle, Fill `#0D1B2A` at 85% opacity.
+
+We'll connect these two screens with a prototype interaction in Section 9.
+
+---
+
+## 8) Design the Conclusion screen
+
+1. Select the `05 — Conclusion` frame.
+2. Add the section label `Conclusion` and divider.
+3. Divide into two columns:
+
+   **Left — key takeaways:**
+   * 3 takeaway cards stacked vertically, each with a numbered accent circle and two lines of text
+   * Card style: Fill `#1A3A5C`, corner radius 12, padding 24px
+   * Numbered circle: 48×48px, Fill `#2E86C1`, number in white Size 24 Bold
+
+   **Right — next steps + contact:**
+   * `Next steps` sub-header + 3 bullet points
+   * A contact card at the bottom:
+     * Your name, email, lab website
+     * A QR code image (generate one at qr-code-generator.com → download PNG → insert as image fill in a 160×160px square)
+   * `Scan for full paper and data` label below the QR code
+
+---
+
+## 9) Add prototype connections
+
+Now we wire everything together. This is what turns a static design into an interactive presentation.
+
+1. Click the **Prototype** tab in the Right Sidebar (top right area of Figma).
+2. You'll see a blue dot appear on the right edge of elements when you hover over them — drag from this dot to another frame to create a connection.
+
+**Wire these connections:**
+
+| From | Trigger | To | Animation |
+|---|---|---|---|
+| `01 — Title` (click anywhere) | On click | `02 — Overview` | Smart Animate, 400ms, Ease Out |
+| `Overview` card 01 Methods | On click | `03 — Methods` | Smart Animate, 400ms, Ease Out |
+| `Overview` card 02 Results | On click | `04 — Results` | Smart Animate, 400ms, Ease Out |
+| `Overview` card 04 Conclusion | On click | `05 — Conclusion` | Smart Animate, 400ms, Ease Out |
+| `Figure 1` rectangle | On click | `04b — Figure Zoom` | Smart Animate, 300ms, Ease In |
+| Close button on zoom screen | On click | `04 — Results` | Smart Animate, 300ms, Ease Out |
+
+**Wire the nav bar on every screen:**
+
+On each screen's nav bar, connect each label to its corresponding frame:
+* `Title` text → `01 — Title`
+* `Overview` text → `02 — Overview`
+* `Methods` text → `03 — Methods`
+* `Results` text → `04 — Results`
+* `Conclusion` text → `05 — Conclusion`
+
+> **Important:** You need to wire the nav bar on each screen separately — Figma prototype connections don't carry over when you copy a frame.
+
+---
+
+## 10) Test and share your prototype
+
+1. Click the **Play (▶) button** in the top-right corner of Figma to launch the prototype preview.
+2. Test every connection:
+   * Does clicking the title screen advance to Overview?
+   * Do all nav bar buttons work on every screen?
+   * Does clicking Figure 1 zoom it full screen?
+   * Does the close button return to Results?
+3. Fix any broken connections before sharing.
+
+**Share with your audience:**
+
+1. Click **Share** in the top-right corner.
+2. Click **Copy prototype link** at the bottom of the share panel.
+3. Paste this link into your presentation email, conference submission, or lab website.
+
+Your audience can open this link in any browser on any device — no software required. They can navigate freely, zoom into figures, and explore your research at their own pace.
+
+> **For presenting live:** Click the Play button to launch fullscreen, then use your keyboard arrow keys or click to advance. The nav bar lets you jump to any section if the audience asks a question that's covered on a different screen.
+
+---
+
+## Self-check (2 min)
+
+* Do you have **5 screens** with consistent nav bars on all of them?
+* Does clicking the **Overview cards** jump to the correct screens?
+* Does the **figure zoom** work — click to enlarge, click X to close?
+* Did you test the prototype in **preview mode** before sharing?
+* Is your **prototype link** shareable without requiring a Figma account to view?
+
+---
+
+## Badge evidence
+
+Save a screenshot of:
+1. Your Figma canvas showing all 5 screens side by side with prototype connection lines visible.
+2. Your presentation open in **prototype preview mode** on the Results screen with the figure zoom active.
+
+---
+
+## What makes this better than PowerPoint
+
+| Feature | PowerPoint | Figma prototype |
+|---|---|---|
+| Non-linear navigation | No | Yes |
+| Zoomable figures | No | Yes |
+| Shareable via browser link | No | Yes |
+| Real-time collaboration | Limited | Yes |
+| Works on any device | Requires software | Any browser |
+| Free | No (UVic license) | Yes |
+| Looks identical on every screen | No (font substitution) | Yes |
+
+---
+
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html)
